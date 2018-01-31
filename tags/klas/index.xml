@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Klas on CH WEBLOG</title>
+    <link>https://choiril.github.io/tags/klas/</link>
+    <description>Recent content in Klas on CH WEBLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Mon, 25 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://choiril.github.io/tags/klas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pertama Kali Mengikuti Cangkruan KLAS</title>
+      <link>https://choiril.github.io/posts/pertama-kali-cangkruan/</link>
+      <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://choiril.github.io/posts/pertama-kali-cangkruan/</guid>
+      <description>Sedikit cerita mengikuti cangkruan KLAS, cangkruan adalah salah satu kegiatan rutin seperti seminar dan ajang kumpul oleh KLAS (Kelompok Linux Arek Suroboyo). Dalam kesempatan ini cangkruan KLAS mengangkat penerapan IoT dalam kehidupan sehari-hari. Cangkruan kali ini diadakan di Gedung Intilang Tower Surabaya yang disponsori oleh APPJI, Radnet, SMKN 1 Surabaya dan itu yang saya ingat.
+Awal mula ikut KLAS
+Seminggu sebelum ada acara tersebut, saya mendapatkan sebuah chat dari teman kantor untuk menghadiri KLAS tentang penarapan IoT dalam kehidupan sehari-hari.</description>
+    </item>
+    
+  </channel>
+</rss>

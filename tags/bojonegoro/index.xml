@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bojonegoro on CH WEBLOG</title>
+    <link>https://choiril.github.io/tags/bojonegoro/</link>
+    <description>Recent content in Bojonegoro on CH WEBLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Sun, 26 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://choiril.github.io/tags/bojonegoro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lingkungan Kerja Baru Bidang E-Government</title>
+      <link>https://choiril.github.io/posts/lingkungan-kerja-baru/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://choiril.github.io/posts/lingkungan-kerja-baru/</guid>
+      <description>&lt;p&gt;Di awal tahun ini saya bekerja sebagai tenaga input data dawis &lt;a href=&#34;http://id.wikipedia.org/wiki/Bojonegoro&#34;&gt;Kabupaten Bojonegoro&lt;/a&gt;, setiap hari kerja saya dan 4 orang teman melakukan inputing data dari buku ke website dawis yang dibuat khusus oleh Pemerintah &lt;a href=&#34;http://id.wikipedia.org/wiki/Bojonegoro&#34;&gt;Kabupaten Bojonegoro&lt;/a&gt;. &lt;a href=&#34;http://id.wikipedia.org/wiki/Bojonegoro&#34;&gt;Kabupaten Bojonegoro&lt;/a&gt; saat ini menerapkan e-government, jadi hampir semua data akan dijadikan digital.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on CH WEBLOG</title>
+    <link>https://choiril.github.io/tags/linux/</link>
+    <description>Recent content in Linux on CH WEBLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Tue, 09 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://choiril.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Menghapus Riwayat Baris Perintah Di Terminal</title>
+      <link>https://choiril.github.io/posts/menghapus-riwayat-baris-perintah-di-terminal/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://choiril.github.io/posts/menghapus-riwayat-baris-perintah-di-terminal/</guid>
+      <description>&lt;p&gt;Bash menyimpan riwayat semua baris perintah yang telah dilakukan oleh pengguna Linux di Terminal. Riwayat ini  membantu pengguna untuk mempermudah menjalankan perintah sebelumnya dengan tombol arah atas atau bawah pada Terminal.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pertama Kali Mengikuti Cangkruan KLAS</title>
+      <link>https://choiril.github.io/posts/pertama-kali-cangkruan/</link>
+      <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://choiril.github.io/posts/pertama-kali-cangkruan/</guid>
+      <description>Sedikit cerita mengikuti cangkruan KLAS, cangkruan adalah salah satu kegiatan rutin seperti seminar dan ajang kumpul oleh KLAS (Kelompok Linux Arek Suroboyo). Dalam kesempatan ini cangkruan KLAS mengangkat penerapan IoT dalam kehidupan sehari-hari. Cangkruan kali ini diadakan di Gedung Intilang Tower Surabaya yang disponsori oleh APPJI, Radnet, SMKN 1 Surabaya dan itu yang saya ingat.
+Awal mula ikut KLAS
+Seminggu sebelum ada acara tersebut, saya mendapatkan sebuah chat dari teman kantor untuk menghadiri KLAS tentang penarapan IoT dalam kehidupan sehari-hari.</description>
+    </item>
+    
+    <item>
+      <title>Menjadi Kelompok Minoritas Yang Kritis</title>
+      <link>https://choiril.github.io/posts/menjadi-kelompok-minoritas-yang-kritis/</link>
+      <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://choiril.github.io/posts/menjadi-kelompok-minoritas-yang-kritis/</guid>
+      <description>Menjadi Kelompok Minoritas Yang Kritis.
+Ini berawal saat mulai bekerja, mulai mengintip OS yang dipakai di lingkungan kerja. Dan yah, ini lingkungan kerja dengan pengguna Windows tak ada seorangpun yang menggunakan Linux hanya saya seorang. Saya merasa tidak kesulitan walau dalam lingkungan seperti ini karena saya sudah pernah untuk input data ke aplikasi berbasis web, kerjaan yang sudah pernah saya lakukan saat masih magang dulu di BPMPD untuk inuting buku profil desa ke aplikasi prodeskel berbasis web, dan menurut saya tak ada kendala sama sekali.</description>
+    </item>
+    
+    <item>
+      <title>Pengalaman Migrasi ke GNU/Linux</title>
+      <link>https://choiril.github.io/posts/pengalaman-migrasi-linux/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://choiril.github.io/posts/pengalaman-migrasi-linux/</guid>
+      <description>Sebuah cerita Migrasi ke GNU/Linux, sebuah perjuangan untuk meneguhkan hati dan pikiran beralih ke Linux. Mengapa memakai Linux? dan mengapa memilih distro Pclos?
+Mengapa memakai Linux?
+Linux sebuah sistem operasi yang saya tahu waktu SMA adalah sebuah sistem operasi para Hacker dan sulit digunakan bagi pemula.Namun pemikiran tersebut berubah sejak kuliah pertengahan semester 1 pada mata kuliah Sistem Operasi pada tahun 2013, pada mata kuliah ini diperkenalkanlah Linux lebih dalam yang menggunakan distro Ubuntu dalam virtualbox.</description>
+    </item>
+    
+  </channel>
+</rss>

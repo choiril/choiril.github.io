@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nodejs on CH WEBLOG</title>
+    <link>https://choiril.github.io/tags/nodejs/</link>
+    <description>Recent content in Nodejs on CH WEBLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Thu, 19 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://choiril.github.io/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cara Instalasi Nodejs dan Iojs di PCLOS Mate X86_64 bit</title>
+      <link>https://choiril.github.io/posts/install-nodejs-iojs-di-pclos-x86_64bit/</link>
+      <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://choiril.github.io/posts/install-nodejs-iojs-di-pclos-x86_64bit/</guid>
+      <description>&lt;p&gt;Nodejs saat ini lagi trend dan sering dibicarakan oleh para developer web, saya sedikit penasaran untuk mencoba teknologi Nodejs meski saya sendiri belum begitu memahami secara detail dari Nodejs ini.
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://choiril.github.io/media/posts/nodejs/nodejs.png&#34; alt=&#34;Nodejs&#34; /&gt;
+&lt;/figure&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

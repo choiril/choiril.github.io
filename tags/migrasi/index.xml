@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Migrasi on CH WEBLOG</title>
+    <link>https://choiril.github.io/tags/migrasi/</link>
+    <description>Recent content in Migrasi on CH WEBLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Sat, 31 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://choiril.github.io/tags/migrasi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pengalaman Migrasi ke GNU/Linux</title>
+      <link>https://choiril.github.io/posts/pengalaman-migrasi-linux/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://choiril.github.io/posts/pengalaman-migrasi-linux/</guid>
+      <description>Sebuah cerita Migrasi ke GNU/Linux, sebuah perjuangan untuk meneguhkan hati dan pikiran beralih ke Linux. Mengapa memakai Linux? dan mengapa memilih distro Pclos?
+Mengapa memakai Linux?
+Linux sebuah sistem operasi yang saya tahu waktu SMA adalah sebuah sistem operasi para Hacker dan sulit digunakan bagi pemula.Namun pemikiran tersebut berubah sejak kuliah pertengahan semester 1 pada mata kuliah Sistem Operasi pada tahun 2013, pada mata kuliah ini diperkenalkanlah Linux lebih dalam yang menggunakan distro Ubuntu dalam virtualbox.</description>
+    </item>
+    
+  </channel>
+</rss>

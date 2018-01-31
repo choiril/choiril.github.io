@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CH WEBLOG</title>
+    <link>https://choiril.github.io/</link>
+    <description>Recent content on CH WEBLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Tue, 30 Jan 2018 21:13:02 +0700</lastBuildDate>
+    
+	<atom:link href="https://choiril.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hari Kedua Tantangan</title>
+      <link>https://choiril.github.io/posts/hari-kedua-tantangan/</link>
+      <pubDate>Tue, 30 Jan 2018 21:13:02 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/hari-kedua-tantangan/</guid>
+      <description>&amp;ldquo;Rasa malas akan terus menjalar kedalam diri, hanya dengan hati yang tangguh rasa tersebut akan kalah. Kemalasan memiliki dua mata yang cukup tangguh, jikalau digunakan dengan benar maka akan menemukan sebuah inovasi baru. Namun ketika terbalik akan menimbulkan penyesalan.&amp;rdquo; Hari ini adalah hari kedua saya melakukan belajar pemrograman Python 3, saya akui pada hari ini saya merasa malas gara-gara tadi keasyikan bermain dengan inkscape setelah lihat-lihat karya di grup telegram gimscape indonesia :) jadi saya tertarik untuk membuat karya.</description>
+    </item>
+    
+    <item>
+      <title>Day One Challenges</title>
+      <link>https://choiril.github.io/posts/day-one-challenges/</link>
+      <pubDate>Mon, 29 Jan 2018 20:01:47 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/day-one-challenges/</guid>
+      <description>Hari ini adalah hari pertama menghadapi tantangan melakukan 100 hari belajar Python dan menulis. Silahkan baca tulisan ini, dan jika tertarik mari kita belajar bersama dan terima tantangan #100dayofcode dan #100dayofwriting. Tantangan Belajar Hari Pertama
+Pertama saya membuat folder baru dengan nama 100daysofcode, folder ini akan berisikan file latihan yang saya tulis menurut panduan ebook Learn Python 3 The Hard Way, karena saya pengguna Linux maka menggunakan perintah mkdir 100daysofcode. Perintah ini berfungsi untuk membuat folder yang bernama 100daysofcode, setelah itu buka text editor kesukaan kalian disini saya menggunakan SublimeText3.</description>
+    </item>
+    
+    <item>
+      <title>Challenges Zero Days</title>
+      <link>https://choiril.github.io/posts/challenges-zero-days/</link>
+      <pubDate>Sun, 28 Jan 2018 15:33:31 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/challenges-zero-days/</guid>
+      <description>Challenges Zero Days? apa itu? sesuai dengan artinya inilah hari ke-0 tantangan dari tantangan 100 hari belajar koding, sebuah gerakan yang cukup terkenal didunia dengan hastag 100DaysofCode pada sosial media terutama Twitter. 100DaysofCode adalah bagian dari gerakan 100DaysofX, 100DaysofX adalah suatu gerakan selama seratus hari untuk mempelajari sesuatu secara konsisten, apakah kamu tertarik mengikuti tantangan ini? Tantangan Kepada Diri Sendiri
+Kali ini saya akan menantang diri saya sendiri untuk 100dayofcode dan 100dayofwriting, hari ini adalah hari ke-0 saya untuk memulai.</description>
+    </item>
+    
+    <item>
+      <title>Menghapus Riwayat Baris Perintah Di Terminal</title>
+      <link>https://choiril.github.io/posts/menghapus-riwayat-baris-perintah-di-terminal/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://choiril.github.io/posts/menghapus-riwayat-baris-perintah-di-terminal/</guid>
+      <description>&lt;p&gt;Bash menyimpan riwayat semua baris perintah yang telah dilakukan oleh pengguna Linux di Terminal. Riwayat ini  membantu pengguna untuk mempermudah menjalankan perintah sebelumnya dengan tombol arah atas atau bawah pada Terminal.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pertama Kali Mengikuti Cangkruan KLAS</title>
+      <link>https://choiril.github.io/posts/pertama-kali-cangkruan/</link>
+      <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://choiril.github.io/posts/pertama-kali-cangkruan/</guid>
+      <description>Sedikit cerita mengikuti cangkruan KLAS, cangkruan adalah salah satu kegiatan rutin seperti seminar dan ajang kumpul oleh KLAS (Kelompok Linux Arek Suroboyo). Dalam kesempatan ini cangkruan KLAS mengangkat penerapan IoT dalam kehidupan sehari-hari. Cangkruan kali ini diadakan di Gedung Intilang Tower Surabaya yang disponsori oleh APPJI, Radnet, SMKN 1 Surabaya dan itu yang saya ingat.
+Awal mula ikut KLAS
+Seminggu sebelum ada acara tersebut, saya mendapatkan sebuah chat dari teman kantor untuk menghadiri KLAS tentang penarapan IoT dalam kehidupan sehari-hari.</description>
+    </item>
+    
+    <item>
+      <title>Menjadi Kelompok Minoritas Yang Kritis</title>
+      <link>https://choiril.github.io/posts/menjadi-kelompok-minoritas-yang-kritis/</link>
+      <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://choiril.github.io/posts/menjadi-kelompok-minoritas-yang-kritis/</guid>
+      <description>Menjadi Kelompok Minoritas Yang Kritis.
+Ini berawal saat mulai bekerja, mulai mengintip OS yang dipakai di lingkungan kerja. Dan yah, ini lingkungan kerja dengan pengguna Windows tak ada seorangpun yang menggunakan Linux hanya saya seorang. Saya merasa tidak kesulitan walau dalam lingkungan seperti ini karena saya sudah pernah untuk input data ke aplikasi berbasis web, kerjaan yang sudah pernah saya lakukan saat masih magang dulu di BPMPD untuk inuting buku profil desa ke aplikasi prodeskel berbasis web, dan menurut saya tak ada kendala sama sekali.</description>
+    </item>
+    
+    <item>
+      <title>Lingkungan Kerja Baru Bidang E-Government</title>
+      <link>https://choiril.github.io/posts/lingkungan-kerja-baru/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://choiril.github.io/posts/lingkungan-kerja-baru/</guid>
+      <description>&lt;p&gt;Di awal tahun ini saya bekerja sebagai tenaga input data dawis &lt;a href=&#34;http://id.wikipedia.org/wiki/Bojonegoro&#34;&gt;Kabupaten Bojonegoro&lt;/a&gt;, setiap hari kerja saya dan 4 orang teman melakukan inputing data dari buku ke website dawis yang dibuat khusus oleh Pemerintah &lt;a href=&#34;http://id.wikipedia.org/wiki/Bojonegoro&#34;&gt;Kabupaten Bojonegoro&lt;/a&gt;. &lt;a href=&#34;http://id.wikipedia.org/wiki/Bojonegoro&#34;&gt;Kabupaten Bojonegoro&lt;/a&gt; saat ini menerapkan e-government, jadi hampir semua data akan dijadikan digital.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Menghilangkan Tulisan ~ (master)]$ Pada Terminal</title>
+      <link>https://choiril.github.io/posts/menghilangkan-tulisan-~master-pada-terminal/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://choiril.github.io/posts/menghilangkan-tulisan-~master-pada-terminal/</guid>
+      <description>&lt;p&gt;Ini adalah pengalaman saya saat menggunakan Git secara CLI di terminal, yang membuat saya sedikit bingung. Karena hal itulah saya membuat sebuat tips atau semacam tutorial tentang Git. Untuk permasalahan ini bisa dilihat pada gambar dibawah ini.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cara Instalasi Nodejs dan Iojs di PCLOS Mate X86_64 bit</title>
+      <link>https://choiril.github.io/posts/install-nodejs-iojs-di-pclos-x86_64bit/</link>
+      <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://choiril.github.io/posts/install-nodejs-iojs-di-pclos-x86_64bit/</guid>
+      <description>&lt;p&gt;Nodejs saat ini lagi trend dan sering dibicarakan oleh para developer web, saya sedikit penasaran untuk mencoba teknologi Nodejs meski saya sendiri belum begitu memahami secara detail dari Nodejs ini.
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://choiril.github.io/media/posts/nodejs/nodejs.png&#34; alt=&#34;Nodejs&#34; /&gt;
+&lt;/figure&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Penggunaan Github dan Git Pemula</title>
+      <link>https://choiril.github.io/posts/cerita-tentang-github/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://choiril.github.io/posts/cerita-tentang-github/</guid>
+      <description>Sebuah cerita nyata mengenal dan menggunakan Github dan Git dari seorang pemula. Awal penasaran tentang teknologi git yang begitu menggoda para developer dan cara instalasi git pada PCLOS.
+Berkenalan dengan Github
+Apa itu Github?Github sebenarnya hampir mirip dengan sosial media hanya saja berisi banyak repositori sumberkode yang dikerjakan dan atau ditulis bersama untuk pengembangan perangkat lunak yang menggunakan sistem pengontrol versi git sehingga juga disebut social coding. Di github ini kita bisa punya pengikut dan mengikuti orang,memberikan umpan, wiki, grafik pengembangan, dan berkonstribusi dalam pembuatan sebuah perangkat lunak selain itu pula kita juga bisa membuat web statis dengan github pages.</description>
+    </item>
+    
+    <item>
+      <title>Pengalaman Migrasi ke GNU/Linux</title>
+      <link>https://choiril.github.io/posts/pengalaman-migrasi-linux/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://choiril.github.io/posts/pengalaman-migrasi-linux/</guid>
+      <description>Sebuah cerita Migrasi ke GNU/Linux, sebuah perjuangan untuk meneguhkan hati dan pikiran beralih ke Linux. Mengapa memakai Linux? dan mengapa memilih distro Pclos?
+Mengapa memakai Linux?
+Linux sebuah sistem operasi yang saya tahu waktu SMA adalah sebuah sistem operasi para Hacker dan sulit digunakan bagi pemula.Namun pemikiran tersebut berubah sejak kuliah pertengahan semester 1 pada mata kuliah Sistem Operasi pada tahun 2013, pada mata kuliah ini diperkenalkanlah Linux lebih dalam yang menggunakan distro Ubuntu dalam virtualbox.</description>
+    </item>
+    
+    <item>
+      <title>Tentang Saya</title>
+      <link>https://choiril.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://choiril.github.io/about/</guid>
+      <description>Tentang Saya
+Seorang Penikmat Teknologi OpenSource yang tinggal di kota kecil dengan sumber minyak yang melimpah. Saat ini bekerja sebagai data entri di sebuah instansi pemerintah daerah.
+Weblog ini sebagai wadah berbagi cerita dan pengetahuan yang saya miliki.</description>
+    </item>
+    
+  </channel>
+</rss>

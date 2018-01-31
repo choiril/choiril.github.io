@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on CH WEBLOG</title>
+    <link>https://choiril.github.io/tags/tutorial/</link>
+    <description>Recent content in Tutorial on CH WEBLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Tue, 09 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://choiril.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Menghapus Riwayat Baris Perintah Di Terminal</title>
+      <link>https://choiril.github.io/posts/menghapus-riwayat-baris-perintah-di-terminal/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://choiril.github.io/posts/menghapus-riwayat-baris-perintah-di-terminal/</guid>
+      <description>&lt;p&gt;Bash menyimpan riwayat semua baris perintah yang telah dilakukan oleh pengguna Linux di Terminal. Riwayat ini  membantu pengguna untuk mempermudah menjalankan perintah sebelumnya dengan tombol arah atas atau bawah pada Terminal.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Menghilangkan Tulisan ~ (master)]$ Pada Terminal</title>
+      <link>https://choiril.github.io/posts/menghilangkan-tulisan-~master-pada-terminal/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://choiril.github.io/posts/menghilangkan-tulisan-~master-pada-terminal/</guid>
+      <description>&lt;p&gt;Ini adalah pengalaman saya saat menggunakan Git secara CLI di terminal, yang membuat saya sedikit bingung. Karena hal itulah saya membuat sebuat tips atau semacam tutorial tentang Git. Untuk permasalahan ini bisa dilihat pada gambar dibawah ini.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cara Instalasi Nodejs dan Iojs di PCLOS Mate X86_64 bit</title>
+      <link>https://choiril.github.io/posts/install-nodejs-iojs-di-pclos-x86_64bit/</link>
+      <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://choiril.github.io/posts/install-nodejs-iojs-di-pclos-x86_64bit/</guid>
+      <description>&lt;p&gt;Nodejs saat ini lagi trend dan sering dibicarakan oleh para developer web, saya sedikit penasaran untuk mencoba teknologi Nodejs meski saya sendiri belum begitu memahami secara detail dari Nodejs ini.
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://choiril.github.io/media/posts/nodejs/nodejs.png&#34; alt=&#34;Nodejs&#34; /&gt;
+&lt;/figure&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Penggunaan Github dan Git Pemula</title>
+      <link>https://choiril.github.io/posts/cerita-tentang-github/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://choiril.github.io/posts/cerita-tentang-github/</guid>
+      <description>Sebuah cerita nyata mengenal dan menggunakan Github dan Git dari seorang pemula. Awal penasaran tentang teknologi git yang begitu menggoda para developer dan cara instalasi git pada PCLOS.
+Berkenalan dengan Github
+Apa itu Github?Github sebenarnya hampir mirip dengan sosial media hanya saja berisi banyak repositori sumberkode yang dikerjakan dan atau ditulis bersama untuk pengembangan perangkat lunak yang menggunakan sistem pengontrol versi git sehingga juga disebut social coding. Di github ini kita bisa punya pengikut dan mengikuti orang,memberikan umpan, wiki, grafik pengembangan, dan berkonstribusi dalam pembuatan sebuah perangkat lunak selain itu pula kita juga bisa membuat web statis dengan github pages.</description>
+    </item>
+    
+  </channel>
+</rss>
