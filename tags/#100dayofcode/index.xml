@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Tue, 30 Jan 2018 21:13:02 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2018 20:37:59 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/tags/#100dayofcode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Matematika Dalam Python</title>
+      <link>https://choiril.github.io/posts/matematika-dalam-python/</link>
+      <pubDate>Wed, 31 Jan 2018 20:37:59 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/matematika-dalam-python/</guid>
+      <description>Hidup ini tak pernah lepas dari matematika dan perhitungan. Setiap hari kita berhitung, tapi jangan sekali-kali perhitungan dengan teman :). Tapi kalau temannya sudah kelewat batas bolehlah dikasihperhitungan.   Setiap bahasa pemrograman punya cara tersendiri untuk melakukan perhitungan matematika. Pada hari ketiga ini saya belajar untuk melakukan perhitungan matematika dan menggunakan penjumlahan, pengurangan, perkalian, pembagian, modulus, kurang dari, lebih dari, kurang dari sama dengan, lebih dari sama dengan. Berikut hasil penulisan kodenya yang mana sudah saya lengkapi dengan keterangan dan hasil dari study drill pada ebook Learn Python The Hard Way :</description>
+    </item>
     
     <item>
       <title>Hari Kedua Tantangan</title>
