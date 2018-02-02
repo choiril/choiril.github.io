@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Wed, 31 Jan 2018 20:37:59 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2018 20:03:20 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/tags/challenges/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nama Dan Variabel Python</title>
+      <link>https://choiril.github.io/posts/nama-dan-variabel-python/</link>
+      <pubDate>Thu, 01 Feb 2018 20:03:20 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/nama-dan-variabel-python/</guid>
+      <description>Apalah arti sebuah nama? pasti beberapa orang akan berkata begitu saat ditanya nama mereka, padahal anama adalah sebuah do&amp;rsquo;a selain itu nama sangat bermanfaat untuk mengingat seuatu. Kita tahu bahwa jeruk adalah buah yang berwarna orange yang mempunyai rasa manis dan asam, jika tidak beri nama bagaimana kita tahu bahwa itu jeruk. Buah dengan warna orange dan punya rasa manis pasti banyak tapi yang seperti jeruk pasti tidak ada. Setelah belajar print dan perhitungan matematika dalam Python, hari ini belajar nama dan variabel.</description>
+    </item>
     
     <item>
       <title>Matematika Dalam Python</title>
