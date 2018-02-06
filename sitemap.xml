@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://choiril.github.io/posts/print-lnjutan-bagian-dua/</loc>
+    <lastmod>2018-02-06T20:00:44+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://choiril.github.io/posts/print-lanjutan/</loc>
+    <lastmod>2018-02-05T20:29:49+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://choiril.github.io/posts/string-dan-text/</loc>
+    <lastmod>2018-02-03T21:43:44+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://choiril.github.io/posts/variable-dan-printing/</loc>
+    <lastmod>2018-02-02T20:19:42+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://choiril.github.io/posts/nama-dan-variabel-python/</loc>
     <lastmod>2018-02-01T20:03:20+07:00</lastmod>
   </url>
@@ -69,13 +89,13 @@
   
   <url>
     <loc>https://choiril.github.io/tags/#100dayofcode/</loc>
-    <lastmod>2018-02-01T20:03:20+07:00</lastmod>
+    <lastmod>2018-02-05T20:29:49+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://choiril.github.io/tags/#100dayofwriting/</loc>
-    <lastmod>2018-02-01T20:03:20+07:00</lastmod>
+    <lastmod>2018-02-05T20:29:49+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -93,7 +113,7 @@
   
   <url>
     <loc>https://choiril.github.io/</loc>
-    <lastmod>2018-02-01T20:03:20+07:00</lastmod>
+    <lastmod>2018-02-06T20:00:44+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -116,7 +136,7 @@
   
   <url>
     <loc>https://choiril.github.io/tags/challenges/</loc>
-    <lastmod>2018-02-01T20:03:20+07:00</lastmod>
+    <lastmod>2018-02-05T20:29:49+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -194,19 +214,19 @@
   
   <url>
     <loc>https://choiril.github.io/posts/</loc>
-    <lastmod>2018-02-01T20:03:20+07:00</lastmod>
+    <lastmod>2018-02-06T20:00:44+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://choiril.github.io/tags/python/</loc>
-    <lastmod>2018-02-01T20:03:20+07:00</lastmod>
+    <lastmod>2018-02-05T20:29:49+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://choiril.github.io/tags/</loc>
-    <lastmod>2018-02-01T20:03:20+07:00</lastmod>
+    <lastmod>2018-02-05T20:29:49+07:00</lastmod>
     <priority>0</priority>
   </url>
   

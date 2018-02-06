@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Thu, 01 Feb 2018 20:03:20 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2018 20:29:49 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/tags/#100dayofwriting/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Print Lanjutan</title>
+      <link>https://choiril.github.io/posts/print-lanjutan/</link>
+      <pubDate>Mon, 05 Feb 2018 20:29:49 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/print-lanjutan/</guid>
+      <description>Karena kemarin kurang enak badan, latihan kemarin ditunda padahal hari libut tidak ada kegiatan yang menyibukkan tapi badan radak tidak enak dan bawaannya pusing. Habis buka puasa langsung tidur tidak seperti biasanya ada acara ngemil atau apa.
+Dan baru sempat hari ini untuk melakukan latihan dan belajar Python lagi, pada latiha kali ini materinya masih sama yaitu print,tidak ada penjelasan yang terlalu banyak karena sudah ada dalam komentar. Mungkin saja salah, karena ini menurut pendapat saya, jika ada yang lebih jago tentang Python membaca tulisan atau dokumentasi saya tentang belajar pemrograman Python ini tolong dikoreksi langsung dikomentar atau dalam repositori saya di github.</description>
+    </item>
+    
+    <item>
+      <title>String Dan Text</title>
+      <link>https://choiril.github.io/posts/string-dan-text/</link>
+      <pubDate>Sat, 03 Feb 2018 21:43:44 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/string-dan-text/</guid>
+      <description>Pada belajar kali ini masih tentang string, karena sebagain orang masih bingung dengan string pada awalnya termasuk saya :) tapi setelah pada bab ini saya sedikit paham tentang string itu. String sebenarnya adalah sebuah teks yang ingin kita tampilkan pada program. Python dapat mengenali sebuah string dengan adanya tanda &amp;ldquo; (petik dua) atau &amp;lsquo; (petik satu).
+String dapat berisikan banyak variabel pada script Python. Untuk diingat bahwa variabel adalah setiap kode yang ada nama variable dan nilai, sebagai contoh saya = manusia, yang mana saya adalah nama dari variabel dan manusia adalah nilai dari nama variabel.</description>
+    </item>
+    
+    <item>
+      <title>Variable Dan Printing</title>
+      <link>https://choiril.github.io/posts/variable-dan-printing/</link>
+      <pubDate>Fri, 02 Feb 2018 20:19:42 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/variable-dan-printing/</guid>
+      <description>Sekarang belajar variabel dan print lanjutan, untuk hari ke-5 ini beajar tentang format string. Sebelum lebih lanjut lagi, kita akan berkenalan dengan string, untuk mengenali string cukup mudah yaitu adanya tanda &amp;ldquo; (petik dua) disetiap awal kata. Contoh: &amp;ldquo;Ini adalah string&amp;rdquo;. String dapat kita kirim ke web server, simpan string ke dalam file dan masih banyak lagi. Sedangkan untuk format string berguna untuk memanggil variable didalam string, pemnaggilan variablenya cukup mudah dengan penambahan tanda {}, misal {nama_variabel}.</description>
+    </item>
     
     <item>
       <title>Nama Dan Variabel Python</title>
