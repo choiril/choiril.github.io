@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Bermain ASCII Python &#8211; CH WEBLOG</title>
+<meta name="description" content="">
+
+    
+
+<meta name="keywords" content="#100dayofcode, python, challenges, #100dayofwriting">
+
+
+
+<meta name="twitter:title" content="Bermain ASCII Python">
+<meta name="twitter:description" content="Personal Weblog Choiril Abdul">
+
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:title" content="Bermain ASCII Python">
+<meta property="og:description" content="Personal Weblog Choiril Abdul">
+<meta property="og:url" content="https://choiril.github.io/posts/bermain-ascii-python/">
+<meta property="og:site_name" content="CH WEBLOG">
+
+
+
+  <meta property="og:updated_time" content="2018-02-08T21:26:51&#43;07:00"/>
+
+
+
+
+
+
+<link rel="canonical" href="https://choiril.github.io/posts/bermain-ascii-python/">
+
+
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<link rel="stylesheet" href="https://choiril.github.io/css/main.css">
+
+<link href="//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic" rel="stylesheet" type="text/css">
+
+<meta http-equiv="cleartype" content="on">
+
+<meta name="generator" content="Hugo 0.35" />
+
+<script src="https://choiril.github.io/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+
+<link rel="shortcut icon" href="https://choiril.github.io/favicon.png">
+
+
+</head>
+
+<body id="post" >
+<nav id="dl-menu" class="dl-menuwrapper" role="navigation" style="display:inline-block">
+	<button class="dl-trigger">Open Menu</button>
+	<ul class="dl-menu">
+		<li><a href="https://choiril.github.io/">Home</a></li>
+		<li>
+			<a href="#">About</a>
+			<ul class="dl-submenu">
+			
+				<li>
+					
+					<img src="https://choiril.github.io/images/avatar.jpg" alt="Choiril Abdul's photo" class="author-photo">
+					
+					<h4>Choiril Abdul</h4>
+					<p>Penikmat Teknologi</p>
+				</li>
+				<li><a href="https://choiril.github.io/about/"><span class="btn btn-inverse">Learn More</span></a></li>
+				
+				
+				<li>
+					<a href="https://facebook.com/choiril.abdul"><i class="fa fa-fw fa-facebook"></i> Facebook</a>
+				</li>
+				
+				
+				<li>
+					<a href="https://github.com/choiril"><i class="fa fa-fw fa-github"></i> GitHub</a>
+				</li>
+				
+				
+				
+				
+			
+			</ul>
+		</li>
+		<li>
+			<a href="#">Posts</a>
+			<ul class="dl-submenu">
+				<li><a href="https://choiril.github.io/posts/">All Posts</a></li>
+				<li><a href="https://choiril.github.io/tags/">All Tags</a></li>
+			</ul>
+		</li>
+		
+	</ul>
+</nav>
+
+ 
+
+<div id="main" role="main">
+  <article class="hentry">
+    <header class="header-title">
+      <div class="header-title-wrap">
+        
+          <h1 class="entry-title"><a href="https://choiril.github.io/posts/bermain-ascii-python/" rel="bookmark" title="Bermain ASCII Python">Bermain ASCII Python</a></h1>
+        
+         
+        <h2><span class="entry-date date published"><time datetime="2018-02-08 21:26:51 &#43;0700 WIB">February 8, 2018</time></span></h2>
+        
+      <p class="entry-reading-time">
+        <i class="fa fa-clock-o"></i>
+        Reading time ~2 minutes
+    </p>
+      </div>
+    </header>
+    <div class="entry-content">
+      <p>Hari kesepeuluh ini cukup lama belajarnya karena bermain tentang ASCII, menurut <a href="https://id.wikipedia.org/wiki/ascii">Wikipedia</a> <em>ASCII</em> singkatan dari <em>American Standart Code for Interchange</em> atau Kode Standar Amerika untuk Pertukuran Informasi, ASCII dibaca dengan ejaan(&lsquo;aeski/ ass-kee&rsquo;). ASCII ini merupakan bentuk huruf dan simbol dalam bentuk bilangan biner 7 bit.</p>
+
+<p>Jadi dengan ASCII kita bisa bermain kode rahasia, walau cukup mudah bagi mereka yang sudah terbiasa dengan ASCII. Tapi bagi saya ASCII ini adalah hal baru yang asyik yang membuatnya saya sedikit bingung karena kode ASCII yang saya dapat saat di <code>print</code> tidak sesuai dengan haeapan, entah kenapa. Akhirnya saya mencoba menghitungnya secara manual dan ternyata bisa. Dalam pelajaran kali ini saya mengambil kode dari <a href="http://www.emojitracker.com/">Emoji Tracker</a> dan <a href="http://www.asciitable.com/">ASCII Table</a>.</p>
+
+<p>Jadi langsung saja ke kode program yang sudah saya buat :</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#75715e"># membuat tab pada teks</span>
+teks_tab <span style="color:#f92672">=</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;</span><span style="color:#ae81ff">\t</span><span style="color:#e6db74">Ini akan membuat tab pada teks&#34;</span>
+<span style="color:#75715e"># membuat baris baru</span>
+teks_pisah <span style="color:#f92672">=</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Ini akan membuat</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">baris baru&#34;</span>
+<span style="color:#75715e">#membuat slash</span>
+teks_garing <span style="color:#f92672">=</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;membuat </span><span style="color:#ae81ff">\\</span><span style="color:#e6db74"> slash </span><span style="color:#ae81ff">\\</span><span style="color:#e6db74"> pada teks&#34;</span>
+
+<span style="color:#75715e"># membuat list atau daftar teks</span>
+list_teks <span style="color:#f92672">=</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;&#34;&#34;
+</span><span style="color:#e6db74">Ini akan membuat list atau daftar
+</span><span style="color:#e6db74"></span><span style="color:#ae81ff">\t</span><span style="color:#e6db74">* list pertama
+</span><span style="color:#e6db74"></span><span style="color:#ae81ff">\t</span><span style="color:#e6db74">* list kedua
+</span><span style="color:#e6db74"></span><span style="color:#ae81ff">\t</span><span style="color:#e6db74">* list ketiga
+</span><span style="color:#e6db74">&#34;&#34;&#34;</span>
+
+<span style="color:#66d9ef">print</span>(teks_tab)
+<span style="color:#66d9ef">print</span>(teks_pisah)
+<span style="color:#66d9ef">print</span>(teks_garing)
+<span style="color:#66d9ef">print</span>(list_teks)
+<span style="color:#75715e"># membuat tanda petik satu</span>
+petik_satu <span style="color:#f92672">=</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Ini akan membuat</span><span style="color:#ae81ff">\&#39;</span><span style="color:#e6db74">tanda petik satu</span><span style="color:#ae81ff">\&#39;</span><span style="color:#e6db74">&#34;</span>
+<span style="color:#75715e"># membuat tanda petik dua</span>
+petik_dua <span style="color:#f92672">=</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Membuat</span><span style="color:#ae81ff">\&#34;</span><span style="color:#e6db74">tanda petik dua</span><span style="color:#ae81ff">\&#34;</span><span style="color:#e6db74">&#34;</span>
+<span style="color:#75715e"># membuat suara beep saat kode dijalankan</span>
+ascii_bel <span style="color:#f92672">=</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Akan mengeluarkan suara beep</span><span style="color:#ae81ff">\a</span><span style="color:#e6db74">&#34;</span>
+<span style="color:#75715e"># membuat tab dan baris baru secara otomatis</span>
+ascii_formfeed <span style="color:#f92672">=</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Membuat</span><span style="color:#ae81ff">\f</span><span style="color:#e6db74">formfeed&#34;</span>
+<span style="color:#75715e"># menghapus satu karakter sebelah kiri</span>
+ascii_backspace <span style="color:#f92672">=</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Menghapus satu karakter </span><span style="color:#ae81ff">\b</span><span style="color:#e6db74"> sebelah kiri pada teks&#34;</span>
+<span style="color:#75715e"># menghilangkan kata pertama dan menempatkan kata terakhir di awal</span>
+ascii_carriagereturn <span style="color:#f92672">=</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;ini_akan_hilang</span><span style="color:#ae81ff">\r</span><span style="color:#e6db74">ini yang akan tampil&#34;</span>
+<span style="color:#75715e"># membuat vertical tab</span>
+ascii_vertical_tab <span style="color:#f92672">=</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;memuat vertical</span><span style="color:#ae81ff">\v</span><span style="color:#e6db74">tab&#34;</span>
+<span style="color:#75715e"># membuat karakter nilai octal</span>
+ascii_nilai_octal <span style="color:#f92672">=</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;nilai octal </span><span style="color:#ae81ff">\100</span><span style="color:#e6db74"> &#34;</span>
+<span style="color:#75715e"># membuat nilai hex</span>
+ascii_nilai_hex <span style="color:#f92672">=</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;nilai hex </span><span style="color:#ae81ff">\x40</span><span style="color:#e6db74">&#34;</span>
+<span style="color:#75715e">#membuat karakter 16 bit dengan nilai hex, 2764 akan membuat bentuk hati</span>
+ascii_16_bit <span style="color:#f92672">=</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Ini adalah karakter 16bit </span><span style="color:#ae81ff">\u2764</span><span style="color:#e6db74">&#34;</span>
+<span style="color:#75715e">#membut karakter 32 bit dengan nilai hex, 1F605 akan membuat emoticon senyum</span>
+ascii_32_bit <span style="color:#f92672">=</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Ini adalah karakter 32bit </span><span style="color:#ae81ff">\U0001F605</span><span style="color:#e6db74">&#34;</span>
+a <span style="color:#f92672">=</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;</span><span style="color:#ae81ff">\x49</span><span style="color:#e6db74">&#34;</span>
+b <span style="color:#f92672">=</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;</span><span style="color:#ae81ff">\u2764</span><span style="color:#e6db74">&#34;</span>
+c <span style="color:#f92672">=</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;</span><span style="color:#ae81ff">\x75</span><span style="color:#e6db74">&#34;</span>
+
+<span style="color:#66d9ef">print</span>(petik_satu)
+<span style="color:#66d9ef">print</span>(petik_dua)
+<span style="color:#66d9ef">print</span>(ascii_bel)
+<span style="color:#66d9ef">print</span>(ascii_formfeed)
+<span style="color:#66d9ef">print</span>(ascii_backspace)
+<span style="color:#66d9ef">print</span>(ascii_carriagereturn)
+<span style="color:#66d9ef">print</span>(ascii_vertical_tab)
+<span style="color:#66d9ef">print</span>(ascii_nilai_octal)
+<span style="color:#66d9ef">print</span>(ascii_nilai_hex)
+<span style="color:#66d9ef">print</span>(ascii_16_bit)
+<span style="color:#66d9ef">print</span>(ascii_32_bit)
+<span style="color:#75715e"># tambahan</span>
+<span style="color:#66d9ef">print</span>(a, b, c)</code></pre></div>
+<p>Untuk hasilnya silahkan dicoba sendiri, tidak saya sertakan screenshot agar pembaca juga mencobanya. Terima kasih</p>
+
+      <footer class="entry-meta">
+          
+        <span class="entry-tags"><a href="https://choiril.github.io/tags/#%23100dayofcode" title="Pages tagged #100dayofcode" class="tag"><span class="term">#100dayofcode</span></a><a href="https://choiril.github.io/tags/#python" title="Pages tagged python" class="tag"><span class="term">python</span></a><a href="https://choiril.github.io/tags/#challenges" title="Pages tagged challenges" class="tag"><span class="term">challenges</span></a><a href="https://choiril.github.io/tags/#%23100dayofwriting" title="Pages tagged #100dayofwriting" class="tag"><span class="term">#100dayofwriting</span></a></span>
+        
+        
+        <div class="social-share">
+  <ul class="socialcount socialcount-small inline-list">
+    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fchoiril.github.io%2fposts%2fbermain-ascii-python%2f" target="_blank" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Like</span></a></li>
+    <li class="twitter"><a href="https://twitter.com/intent/tweet?text=https%3a%2f%2fchoiril.github.io%2fposts%2fbermain-ascii-python%2f" target="_blank" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Tweet</span></a></li>
+    <li class="googleplus"><a href="https://plus.google.com/share?url=https%3a%2f%2fchoiril.github.io%2fposts%2fbermain-ascii-python%2f" target="_blank" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
+  </ul>
+</div>
+
+      </footer>
+    </div>
+    
+    <section id="disqus_thread"><div id="disqus_thread"></div>
+<script type="text/javascript">
+
+(function() {
+    
+    
+    if (window.location.hostname == "localhost")
+        return;
+
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'choiril';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+    
+  </article>
+</div>
+
+<div class="footer-wrapper">
+  <footer role="contentinfo">
+    <span>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.
+<br> Powered by <a href="https://gohugo.io/" rel="nofollow">Hugo</a> using the <a href="https://github.com/dldx/hpstr-hugo-theme" rel="nofollow">HPSTR</a> theme.</span>
+
+  </footer>
+</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="\/js\/vendor\/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="https://choiril.github.io/js/scripts.min.js"></script>
+
+
+
+</body>
+</html>
+
