@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Tue, 06 Feb 2018 20:00:44 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2018 20:01:02 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Print Lanjutan Ketiga</title>
+      <link>https://choiril.github.io/posts/print-lanjutan-ketiga/</link>
+      <pubDate>Wed, 07 Feb 2018 20:01:02 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/print-lanjutan-ketiga/</guid>
+      <description>Hari kesembilan belajar pemrogram Python dan menulis artikel, meski tulisan artikel ini belum sesuai kaidah penulisan artikel SEO atau menarik bagi pengunjung blog ini, tapi saya akan terus mnecoba yang terbaik dan terus menulis dokumentasi perkembangan saya belajar. Karena dengan begini saya bisa membaca ulang atau merevisi cara belajar saya.
+Hari ini saya mencoba mengintip beberapa materi atau bahan yang diperlukan untuk menjadi seorang data scientist salah satunya tentang statistik, dan mencoba menulusuri mata kuliah yang diajarkan di beberapa universitas dan sebuah thread di kaskus.</description>
+    </item>
     
     <item>
       <title>Print Lanjutan Bagian Dua</title>
