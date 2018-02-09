@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Thu, 08 Feb 2018 21:26:51 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2018 20:52:09 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Membuat Pertanyaan Python</title>
+      <link>https://choiril.github.io/posts/membuat-pertanyaan-python/</link>
+      <pubDate>Fri, 09 Feb 2018 20:52:09 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/membuat-pertanyaan-python/</guid>
+      <description>Masih 89 hari lagi untuk selesai dalam tantangan ini, tetapi rangkaian kata mulai menipis untuk menuliskan dokumentasi belajar saya disini. Kalau saya cuma mendokumentasikan bari kode, menurut saya tulisan ini kurang bermanfaat dan bagi seseorang pemula yang belajar Python seperti saya menemukan dokumentasi yang berisi baris kode tanpa keterangan akan bingung membacanya. Tapi saya akan berusaha untuk merangkai kata menjadi sebuah tuisan yang bermanfaat.
+Balik lagi ke topik belajar di hari ke-11 ini, setelah beberapa hari ini belajar tentang print kali ini akan belajar tentang membuat inputan.</description>
+    </item>
     
     <item>
       <title>Bermain ASCII Python</title>
