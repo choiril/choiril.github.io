@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Fri, 09 Feb 2018 20:52:09 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2018 20:01:54 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/tags/#100dayofwriting/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Prompt Dan Pydoc Pada Python</title>
+      <link>https://choiril.github.io/posts/prompt-pada-python/</link>
+      <pubDate>Sat, 10 Feb 2018 20:01:54 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/prompt-pada-python/</guid>
+      <description>Hari ke-12 ini materi masih sama dengan kemarin, masih tentang input. Namun kali ini jawaban dari study drill akan saya taruh di awal artikel sebagai bahan bacaan karena materi di hari ke-12 cuma sedikit tambahan dari dari materi sebelumnya. Study drill hari ini adalah tentang Pydoc. Apa itu Pydoc? dari hasil mengetikkan pydoc pada terminal dapat disimpulkan bahwa pydoc adalah sebuah modul yang bisa membuat dokumentasi tentang suatu modul yang ada di Python.</description>
+    </item>
     
     <item>
       <title>Membuat Pertanyaan Python</title>
@@ -28,7 +37,7 @@ Balik lagi ke topik belajar di hari ke-11 ini, setelah beberapa hari ini belajar
       <pubDate>Thu, 08 Feb 2018 21:26:51 +0700</pubDate>
       
       <guid>https://choiril.github.io/posts/bermain-ascii-python/</guid>
-      <description>Hari kesepeuluh ini cukup lama belajarnya karena bermain tentang ASCII, menurut Wikipedia ASCII singkatan dari American Standart Code for Interchange atau Kode Standar Amerika untuk Pertukuran Informasi, ASCII dibaca dengan ejaan(&amp;lsquo;aeski/ ass-kee&amp;rsquo;). ASCII ini merupakan bentuk huruf dan simbol dalam bentuk bilangan biner 7 bit.
+      <description>Hari kesepuluh ini cukup lama belajarnya karena bermain tentang ASCII, menurut Wikipedia ASCII singkatan dari American Standart Code for Interchange atau Kode Standar Amerika untuk Pertukuran Informasi, ASCII dibaca dengan ejaan(&amp;lsquo;aeski/ ass-kee&amp;rsquo;). ASCII ini merupakan bentuk huruf dan simbol dalam bentuk bilangan biner 7 bit.
 Jadi dengan ASCII kita bisa bermain kode rahasia, walau cukup mudah bagi mereka yang sudah terbiasa dengan ASCII. Tapi bagi saya ASCII ini adalah hal baru yang asyik yang membuatnya saya sedikit bingung karena kode ASCII yang saya dapat saat di print tidak sesuai dengan haeapan, entah kenapa.</description>
     </item>
     
