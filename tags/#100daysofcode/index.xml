@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#100daysofcode on CH WEBLOG</title>
+    <link>https://choiril.github.io/tags/#100daysofcode/</link>
+    <description>Recent content in #100daysofcode on CH WEBLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Sun, 11 Feb 2018 20:11:16 +0700</lastBuildDate>
+    
+	<atom:link href="https://choiril.github.io/tags/#100daysofcode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Argv Pada Python</title>
+      <link>https://choiril.github.io/posts/argv-pada-python/</link>
+      <pubDate>Sun, 11 Feb 2018 20:11:16 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/argv-pada-python/</guid>
+      <description>Hari ke-tigabelas rasa malas mulai menjalar lagi, dan hampir tidak konsen saat belajar. Meski begitu saya tetap berusaha untuk melawan rasa malas itu untuk mencapai tujuan saya yaitu menguasai pemrograman Python. Untuk bab kali ini akan belajar tentang beberapa modul yang ada dalam Python seperti modul import dan argv.
+Dimulai dari modul import, modul ini berfungsi untuk memanggil modul yang akan digunakan, sedangkan argv sendiri kepanjangan dari argumen, argumen disini adalah variabel yang digunakan dan telah ditentukan dalam skrip.</description>
+    </item>
+    
+    <item>
+      <title>Prompt Dan Pydoc Pada Python</title>
+      <link>https://choiril.github.io/posts/prompt-pada-python/</link>
+      <pubDate>Sat, 10 Feb 2018 20:01:54 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/prompt-pada-python/</guid>
+      <description>Hari ke-12 ini materi masih sama dengan kemarin, masih tentang input. Namun kali ini jawaban dari study drill akan saya taruh di awal artikel sebagai bahan bacaan karena materi di hari ke-12 cuma sedikit tambahan dari dari materi sebelumnya. Study drill hari ini adalah tentang Pydoc. Apa itu Pydoc? dari hasil mengetikkan pydoc pada terminal dapat disimpulkan bahwa pydoc adalah sebuah modul yang bisa membuat dokumentasi tentang suatu modul yang ada di Python.</description>
+    </item>
+    
+    <item>
+      <title>Membuat Pertanyaan Python</title>
+      <link>https://choiril.github.io/posts/membuat-pertanyaan-python/</link>
+      <pubDate>Fri, 09 Feb 2018 20:52:09 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/membuat-pertanyaan-python/</guid>
+      <description>Masih 89 hari lagi untuk selesai dalam tantangan ini, tetapi rangkaian kata mulai menipis untuk menuliskan dokumentasi belajar saya disini. Kalau saya cuma mendokumentasikan bari kode, menurut saya tulisan ini kurang bermanfaat dan bagi seseorang pemula yang belajar Python seperti saya menemukan dokumentasi yang berisi baris kode tanpa keterangan akan bingung membacanya. Tapi saya akan berusaha untuk merangkai kata menjadi sebuah tuisan yang bermanfaat.
+Balik lagi ke topik belajar di hari ke-11 ini, setelah beberapa hari ini belajar tentang print kali ini akan belajar tentang membuat inputan.</description>
+    </item>
+    
+    <item>
+      <title>Bermain ASCII Python</title>
+      <link>https://choiril.github.io/posts/bermain-ascii-python/</link>
+      <pubDate>Thu, 08 Feb 2018 21:26:51 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/bermain-ascii-python/</guid>
+      <description>Hari kesepuluh ini cukup lama belajarnya karena bermain tentang ASCII, menurut Wikipedia ASCII singkatan dari American Standart Code for Interchange atau Kode Standar Amerika untuk Pertukuran Informasi, ASCII dibaca dengan ejaan(&amp;lsquo;aeski/ ass-kee&amp;rsquo;). ASCII ini merupakan bentuk huruf dan simbol dalam bentuk bilangan biner 7 bit.
+Jadi dengan ASCII kita bisa bermain kode rahasia, walau cukup mudah bagi mereka yang sudah terbiasa dengan ASCII. Tapi bagi saya ASCII ini adalah hal baru yang asyik yang membuatnya saya sedikit bingung karena kode ASCII yang saya dapat saat di print tidak sesuai dengan haeapan, entah kenapa.</description>
+    </item>
+    
+    <item>
+      <title>Print Lanjutan Ketiga</title>
+      <link>https://choiril.github.io/posts/print-lanjutan-ketiga/</link>
+      <pubDate>Wed, 07 Feb 2018 20:01:02 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/print-lanjutan-ketiga/</guid>
+      <description>Hari kesembilan belajar pemrogram Python dan menulis artikel, meski tulisan artikel ini belum sesuai kaidah penulisan artikel SEO atau menarik bagi pengunjung blog ini, tapi saya akan terus mnecoba yang terbaik dan terus menulis dokumentasi perkembangan saya belajar. Karena dengan begini saya bisa membaca ulang atau merevisi cara belajar saya.
+Hari ini saya mencoba mengintip beberapa materi atau bahan yang diperlukan untuk menjadi seorang data scientist salah satunya tentang statistik, dan mencoba menulusuri mata kuliah yang diajarkan di beberapa universitas dan sebuah thread di kaskus.</description>
+    </item>
+    
+    <item>
+      <title>Print Lanjutan Bagian Dua</title>
+      <link>https://choiril.github.io/posts/print-lnjutan-bagian-dua/</link>
+      <pubDate>Tue, 06 Feb 2018 20:00:44 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/print-lnjutan-bagian-dua/</guid>
+      <description>Untuk hari ini belajarnya masih tentang Print, tapi lebih kompleks karena ada format string dan nilai subtitusi. Kalau saya menyebutnya salah tolong diberi tahu kesalahannya bisa lewat komentar atau facebook maupun repositori saya yang ada Github.
+Sebelum memulai membuat dokumentasi belajar ini saya akan menulis ulang cerita hari ini, tepatnya setelah seminggu dari hari ini ternyata ada teman yang tertarik untuk mencoba belajar metode seperti ini, tapi entah jadi atau tidak.</description>
+    </item>
+    
+    <item>
+      <title>Print Lanjutan</title>
+      <link>https://choiril.github.io/posts/print-lanjutan/</link>
+      <pubDate>Mon, 05 Feb 2018 20:29:49 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/print-lanjutan/</guid>
+      <description>Karena kemarin kurang enak badan, latihan kemarin ditunda padahal hari libut tidak ada kegiatan yang menyibukkan tapi badan radak tidak enak dan bawaannya pusing. Habis buka puasa langsung tidur tidak seperti biasanya ada acara ngemil atau apa.
+Dan baru sempat hari ini untuk melakukan latihan dan belajar Python lagi, pada latiha kali ini materinya masih sama yaitu print,tidak ada penjelasan yang terlalu banyak karena sudah ada dalam komentar. Mungkin saja salah, karena ini menurut pendapat saya, jika ada yang lebih jago tentang Python membaca tulisan atau dokumentasi saya tentang belajar pemrograman Python ini tolong dikoreksi langsung dikomentar atau dalam repositori saya di github.</description>
+    </item>
+    
+    <item>
+      <title>String Dan Text</title>
+      <link>https://choiril.github.io/posts/string-dan-text/</link>
+      <pubDate>Sat, 03 Feb 2018 21:43:44 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/string-dan-text/</guid>
+      <description>Pada belajar kali ini masih tentang string, karena sebagain orang masih bingung dengan string pada awalnya termasuk saya :) tapi setelah pada bab ini saya sedikit paham tentang string itu. String sebenarnya adalah sebuah teks yang ingin kita tampilkan pada program. Python dapat mengenali sebuah string dengan adanya tanda &amp;ldquo; (petik dua) atau &amp;lsquo; (petik satu).
+String dapat berisikan banyak variabel pada script Python. Untuk diingat bahwa variabel adalah setiap kode yang ada nama variable dan nilai, sebagai contoh saya = manusia, yang mana saya adalah nama dari variabel dan manusia adalah nilai dari nama variabel.</description>
+    </item>
+    
+    <item>
+      <title>Variable Dan Printing</title>
+      <link>https://choiril.github.io/posts/variable-dan-printing/</link>
+      <pubDate>Fri, 02 Feb 2018 20:19:42 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/variable-dan-printing/</guid>
+      <description>Sekarang belajar variabel dan print lanjutan, untuk hari ke-5 ini beajar tentang format string. Sebelum lebih lanjut lagi, kita akan berkenalan dengan string, untuk mengenali string cukup mudah yaitu adanya tanda &amp;ldquo; (petik dua) disetiap awal kata. Contoh: &amp;ldquo;Ini adalah string&amp;rdquo;. String dapat kita kirim ke web server, simpan string ke dalam file dan masih banyak lagi. Sedangkan untuk format string berguna untuk memanggil variable didalam string, pemnaggilan variablenya cukup mudah dengan penambahan tanda {}, misal {nama_variabel}.</description>
+    </item>
+    
+    <item>
+      <title>Nama Dan Variabel Python</title>
+      <link>https://choiril.github.io/posts/nama-dan-variabel-python/</link>
+      <pubDate>Thu, 01 Feb 2018 20:03:20 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/nama-dan-variabel-python/</guid>
+      <description>Apalah arti sebuah nama? pasti beberapa orang akan berkata begitu saat ditanya nama mereka, padahal anama adalah sebuah do&amp;rsquo;a selain itu nama sangat bermanfaat untuk mengingat seuatu. Kita tahu bahwa jeruk adalah buah yang berwarna orange yang mempunyai rasa manis dan asam, jika tidak beri nama bagaimana kita tahu bahwa itu jeruk. Buah dengan warna orange dan punya rasa manis pasti banyak tapi yang seperti jeruk pasti tidak ada. Setelah belajar print dan perhitungan matematika dalam Python, hari ini belajar nama dan variabel.</description>
+    </item>
+    
+    <item>
+      <title>Matematika Dalam Python</title>
+      <link>https://choiril.github.io/posts/matematika-dalam-python/</link>
+      <pubDate>Wed, 31 Jan 2018 20:37:59 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/matematika-dalam-python/</guid>
+      <description>Hidup ini tak pernah lepas dari matematika dan perhitungan. Setiap hari kita berhitung, tapi jangan sekali-kali perhitungan dengan teman :). Tapi kalau temannya sudah kelewat batas bolehlah dikasihperhitungan.   Setiap bahasa pemrograman punya cara tersendiri untuk melakukan perhitungan matematika. Pada hari ketiga ini saya belajar untuk melakukan perhitungan matematika dan menggunakan penjumlahan, pengurangan, perkalian, pembagian, modulus, kurang dari, lebih dari, kurang dari sama dengan, lebih dari sama dengan. Berikut hasil penulisan kodenya yang mana sudah saya lengkapi dengan keterangan dan hasil dari study drill pada ebook Learn Python The Hard Way :</description>
+    </item>
+    
+    <item>
+      <title>Hari Kedua Tantangan</title>
+      <link>https://choiril.github.io/posts/hari-kedua-tantangan/</link>
+      <pubDate>Tue, 30 Jan 2018 21:13:02 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/hari-kedua-tantangan/</guid>
+      <description>&amp;ldquo;Rasa malas akan terus menjalar kedalam diri, hanya dengan hati yang tangguh rasa tersebut akan kalah. Kemalasan memiliki dua mata yang cukup tangguh, jikalau digunakan dengan benar maka akan menemukan sebuah inovasi baru. Namun ketika terbalik akan menimbulkan penyesalan.&amp;rdquo; Hari ini adalah hari kedua saya melakukan belajar pemrograman Python 3, saya akui pada hari ini saya merasa malas gara-gara tadi keasyikan bermain dengan inkscape setelah lihat-lihat karya di grup telegram gimscape indonesia :) jadi saya tertarik untuk membuat karya.</description>
+    </item>
+    
+    <item>
+      <title>Day One Challenges</title>
+      <link>https://choiril.github.io/posts/day-one-challenges/</link>
+      <pubDate>Mon, 29 Jan 2018 20:01:47 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/day-one-challenges/</guid>
+      <description>Hari ini adalah hari pertama menghadapi tantangan melakukan 100 hari belajar Python dan menulis. Silahkan baca tulisan ini, dan jika tertarik mari kita belajar bersama dan terima tantangan #100dayofcode dan #100dayofwriting. Tantangan Belajar Hari Pertama
+Pertama saya membuat folder baru dengan nama 100daysofcode, folder ini akan berisikan file latihan yang saya tulis menurut panduan ebook Learn Python 3 The Hard Way, karena saya pengguna Linux maka menggunakan perintah mkdir 100daysofcode. Perintah ini berfungsi untuk membuat folder yang bernama 100daysofcode, setelah itu buka text editor kesukaan kalian disini saya menggunakan SublimeText3.</description>
+    </item>
+    
+    <item>
+      <title>Challenges Zero Days</title>
+      <link>https://choiril.github.io/posts/challenges-zero-days/</link>
+      <pubDate>Sun, 28 Jan 2018 15:33:31 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/challenges-zero-days/</guid>
+      <description>Challenges Zero Days? apa itu? sesuai dengan artinya inilah hari ke-0 tantangan dari tantangan 100 hari belajar koding, sebuah gerakan yang cukup terkenal didunia dengan hastag 100DaysofCode pada sosial media terutama Twitter. 100DaysofCode adalah bagian dari gerakan 100DaysofX, 100DaysofX adalah suatu gerakan selama seratus hari untuk mempelajari sesuatu secara konsisten, apakah kamu tertarik mengikuti tantangan ini? Tantangan Kepada Diri Sendiri
+Kali ini saya akan menantang diri saya sendiri untuk 100dayofcode dan 100dayofwriting, hari ini adalah hari ke-0 saya untuk memulai.</description>
+    </item>
+    
+  </channel>
+</rss>

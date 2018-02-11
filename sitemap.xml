@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://choiril.github.io/posts/argv-pada-python/</loc>
+    <lastmod>2018-02-11T20:11:16+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://choiril.github.io/posts/prompt-pada-python/</loc>
     <lastmod>2018-02-10T20:01:54+07:00</lastmod>
   </url>
@@ -108,14 +113,14 @@
   </url>
   
   <url>
-    <loc>https://choiril.github.io/tags/#100dayofcode/</loc>
-    <lastmod>2018-02-10T20:01:54+07:00</lastmod>
+    <loc>https://choiril.github.io/tags/#100daysofcode/</loc>
+    <lastmod>2018-02-11T20:11:16+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://choiril.github.io/tags/#100dayofwriting/</loc>
-    <lastmod>2018-02-10T20:01:54+07:00</lastmod>
+    <loc>https://choiril.github.io/tags/#100daysofwriting/</loc>
+    <lastmod>2018-02-11T20:11:16+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -133,7 +138,7 @@
   
   <url>
     <loc>https://choiril.github.io/</loc>
-    <lastmod>2018-02-10T20:01:54+07:00</lastmod>
+    <lastmod>2018-02-11T20:11:16+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -156,7 +161,7 @@
   
   <url>
     <loc>https://choiril.github.io/tags/challenges/</loc>
-    <lastmod>2018-02-10T20:01:54+07:00</lastmod>
+    <lastmod>2018-02-11T20:11:16+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -234,19 +239,19 @@
   
   <url>
     <loc>https://choiril.github.io/posts/</loc>
-    <lastmod>2018-02-10T20:01:54+07:00</lastmod>
+    <lastmod>2018-02-11T20:11:16+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://choiril.github.io/tags/python/</loc>
-    <lastmod>2018-02-10T20:01:54+07:00</lastmod>
+    <lastmod>2018-02-11T20:11:16+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://choiril.github.io/tags/</loc>
-    <lastmod>2018-02-10T20:01:54+07:00</lastmod>
+    <lastmod>2018-02-11T20:11:16+07:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Sat, 10 Feb 2018 20:01:54 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2018 20:11:16 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/tags/challenges/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Argv Pada Python</title>
+      <link>https://choiril.github.io/posts/argv-pada-python/</link>
+      <pubDate>Sun, 11 Feb 2018 20:11:16 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/argv-pada-python/</guid>
+      <description>Hari ke-tigabelas rasa malas mulai menjalar lagi, dan hampir tidak konsen saat belajar. Meski begitu saya tetap berusaha untuk melawan rasa malas itu untuk mencapai tujuan saya yaitu menguasai pemrograman Python. Untuk bab kali ini akan belajar tentang beberapa modul yang ada dalam Python seperti modul import dan argv.
+Dimulai dari modul import, modul ini berfungsi untuk memanggil modul yang akan digunakan, sedangkan argv sendiri kepanjangan dari argumen, argumen disini adalah variabel yang digunakan dan telah ditentukan dalam skrip.</description>
+    </item>
     
     <item>
       <title>Prompt Dan Pydoc Pada Python</title>
