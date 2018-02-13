@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Sun, 11 Feb 2018 20:11:16 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2018 20:53:26 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Penggabungan Input Dalam Argv</title>
+      <link>https://choiril.github.io/posts/penggabungan-input-dalam-argv/</link>
+      <pubDate>Tue, 13 Feb 2018 20:53:26 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/penggabungan-input-dalam-argv/</guid>
+      <description>Hari ke-14 sebenarnya telah selesai kemarin karena kepala tiba-tiba pusing jadi hari ini baru bisa belajar lagi. Kemarin teman kerja dapat tugas unik dari kantor yaitu mencari jumlah artikel tahun 2017 di beberapa website, yang menjadi kendala adalah ada beberapa web setiap beberapa jam membuat berita dan websitenya tidak ada sitemap ataupun feed rssnya. Ditambah lagi tidak ada arsip tahun hanya ada kategori saja selain itu website dibuat dengan CodeIgniter.</description>
+    </item>
     
     <item>
       <title>Argv Pada Python</title>
