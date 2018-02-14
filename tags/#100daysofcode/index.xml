@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Tue, 13 Feb 2018 20:53:26 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2018 21:05:03 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/tags/#100daysofcode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Membaca File Di Python</title>
+      <link>https://choiril.github.io/posts/membaca-file-di-python/</link>
+      <pubDate>Wed, 14 Feb 2018 21:05:03 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/membaca-file-di-python/</guid>
+      <description>Hari ke-15 ini belajar membuat 2 file yang berbeda, file pertama bernama lat15.py yang berisikan baris kode dari Python dan untuk file kedua bernama lat15.txt berisi sebuah teks biasa. File pertama bertugas untuk membuka dan membaca isi dari file kedua. Dalam file kedua saya buat isi seperti ini :
+Ini adalah file latihan materi ke-15 Dan akan ditampilkan pada display Agar file kedua terbaca oleh file pertama haruslah pada satu folder, tapi apakah bisa membuka file yang berbeda folder?</description>
+    </item>
     
     <item>
       <title>Penggabungan Input Dalam Argv</title>
