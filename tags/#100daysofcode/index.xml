@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Wed, 14 Feb 2018 21:05:03 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2018 19:47:13 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/tags/#100daysofcode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Baca Tulis File Pada Python</title>
+      <link>https://choiril.github.io/posts/baca-tulis-pada-python/</link>
+      <pubDate>Thu, 15 Feb 2018 19:47:13 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/baca-tulis-pada-python/</guid>
+      <description>Baca tulis adalah suatu hal yang penting dalam kehidupan ini, dengan baca tulis kita bisa menikmati ilmu dan memiliki pengetahuan dalam menjalani kehidupan dan tidak terbodohi oleh orang lain. Dan pada hari ke-16 ini belajar untuk membaca dan menulis file pada Python, dengan membaca dan menulis sebuah file dengan Python kita bisa dan mengisi file dengan data yang ingin kita simpan dalam file. Bisa saja isi fle dengan gambar, teks ataupun video tapi untuk belajar pertama ini akan menulis file berupa teks.</description>
+    </item>
     
     <item>
       <title>Membaca File Di Python</title>
