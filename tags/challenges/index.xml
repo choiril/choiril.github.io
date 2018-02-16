@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Thu, 15 Feb 2018 19:47:13 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2018 20:28:16 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/tags/challenges/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bermain Dengan File Di Python</title>
+      <link>https://choiril.github.io/posts/bermain-dengan-file-di-python/</link>
+      <pubDate>Fri, 16 Feb 2018 20:28:16 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/bermain-dengan-file-di-python/</guid>
+      <description>Setelah menonton video dari Tetiana Ivanova tentang bagaimana menjadi seorang data scientist atau ilmuwan data dalam 6 bulan, saya sedikit paham bagaimana cara belajar yang efektif. Seperti menggunakan teknik podoromo, membuat rencana, tak perlu perfeksionis dan masih banyak lagi, dan ternyata cara belajar saya untuk menguasai Python dalam 3 bulan hampir benar. Walau saya sedikit perfeksionis dalam penentuan target agar sedikit ada gengsi.
+Untuk hari ke-17 ini masih tentang file, namun kali ini study drillnya adalah menghapus beberapa fitur/modul yang digunakan, membuat skrip emjadi satu baris saja, arti dari cat, cat sendiri hanya ada dalam Linux dan fungsinya kurang lebih untuk menampilkan isi dari file tanpa membuka file.</description>
+    </item>
     
     <item>
       <title>Baca Tulis File Pada Python</title>

@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Bermain Dengan File Di Python &#8211; CH WEBLOG</title>
+<meta name="description" content="">
+
+    
+
+<meta name="keywords" content="#100daysofcode, python, challenges, #100daysofwriting">
+
+
+
+<meta name="twitter:title" content="Bermain Dengan File Di Python">
+<meta name="twitter:description" content="Personal Weblog Choiril Abdul">
+
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:title" content="Bermain Dengan File Di Python">
+<meta property="og:description" content="Personal Weblog Choiril Abdul">
+<meta property="og:url" content="https://choiril.github.io/posts/bermain-dengan-file-di-python/">
+<meta property="og:site_name" content="CH WEBLOG">
+
+
+
+  <meta property="og:updated_time" content="2018-02-16T20:28:16&#43;07:00"/>
+
+
+
+
+
+
+<link rel="canonical" href="https://choiril.github.io/posts/bermain-dengan-file-di-python/">
+
+
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<link rel="stylesheet" href="https://choiril.github.io/css/main.css">
+
+<link href="//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic" rel="stylesheet" type="text/css">
+
+<meta http-equiv="cleartype" content="on">
+
+<meta name="generator" content="Hugo 0.35" />
+
+<script src="https://choiril.github.io/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+
+<link rel="shortcut icon" href="https://choiril.github.io/favicon.png">
+
+
+</head>
+
+<body id="post" >
+<nav id="dl-menu" class="dl-menuwrapper" role="navigation" style="display:inline-block">
+	<button class="dl-trigger">Open Menu</button>
+	<ul class="dl-menu">
+		<li><a href="https://choiril.github.io/">Home</a></li>
+		<li>
+			<a href="#">About</a>
+			<ul class="dl-submenu">
+			
+				<li>
+					
+					<img src="https://choiril.github.io/images/avatar.jpg" alt="Choiril Abdul's photo" class="author-photo">
+					
+					<h4>Choiril Abdul</h4>
+					<p>Penikmat Teknologi</p>
+				</li>
+				<li><a href="https://choiril.github.io/about/"><span class="btn btn-inverse">Learn More</span></a></li>
+				
+				
+				<li>
+					<a href="https://facebook.com/choiril.abdul"><i class="fa fa-fw fa-facebook"></i> Facebook</a>
+				</li>
+				
+				
+				<li>
+					<a href="https://github.com/choiril"><i class="fa fa-fw fa-github"></i> GitHub</a>
+				</li>
+				
+				
+				
+				
+			
+			</ul>
+		</li>
+		<li>
+			<a href="#">Posts</a>
+			<ul class="dl-submenu">
+				<li><a href="https://choiril.github.io/posts/">All Posts</a></li>
+				<li><a href="https://choiril.github.io/tags/">All Tags</a></li>
+			</ul>
+		</li>
+		
+	</ul>
+</nav>
+
+ 
+
+<div id="main" role="main">
+  <article class="hentry">
+    <header class="header-title">
+      <div class="header-title-wrap">
+        
+          <h1 class="entry-title"><a href="https://choiril.github.io/posts/bermain-dengan-file-di-python/" rel="bookmark" title="Bermain Dengan File Di Python">Bermain Dengan File Di Python</a></h1>
+        
+         
+        <h2><span class="entry-date date published"><time datetime="2018-02-16 20:28:16 &#43;0700 WIB">February 16, 2018</time></span></h2>
+        
+      <p class="entry-reading-time">
+        <i class="fa fa-clock-o"></i>
+        Reading time ~2 minutes
+    </p>
+      </div>
+    </header>
+    <div class="entry-content">
+      <p>Setelah menonton video dari Tetiana Ivanova tentang bagaimana menjadi seorang data scientist atau ilmuwan data dalam 6 bulan, saya sedikit paham bagaimana cara belajar yang efektif. Seperti menggunakan teknik podoromo, membuat rencana, tak perlu perfeksionis dan masih banyak lagi, dan ternyata cara belajar saya untuk menguasai Python dalam 3 bulan hampir benar. Walau saya sedikit perfeksionis dalam penentuan target agar sedikit ada gengsi.</p>
+
+<p>Untuk hari ke-17 ini masih tentang file, namun kali ini study drillnya adalah menghapus beberapa fitur/modul yang digunakan, membuat skrip emjadi satu baris saja, arti dari <em>cat</em>, <em>cat</em> sendiri hanya ada dalam Linux dan fungsinya kurang lebih untuk menampilkan isi dari file tanpa membuka file. Untuk penggunaan <code>file.close()</code> adalah menutup file tapi tanpa penggunan sintaks ini Python sendiri menutup otomatis.</p>
+
+<p>Untuk latihan kali ini saya ada 2 skrip, pertama skrip panjang dan belum ada penghapusan beberapa fitur. Untuk skrip kedua ada penghapusan modul dan hanya satu bari. Skrip lengkap :</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">from</span> sys <span style="color:#f92672">import</span> argv
+<span style="color:#75715e"># modul exist berfungsi untuk mengecek apakah file sudah ada atau belu, jika belum aka mengahsilkan FALSE</span>
+<span style="color:#f92672">from</span> os.path <span style="color:#f92672">import</span> exists
+
+<span style="color:#75715e"># nama file yang akan dipanggil dan yang akan diisi</span>
+script, file1, file2 <span style="color:#f92672">=</span> argv
+
+<span style="color:#66d9ef">print</span>(f<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Menyalin isi dari {file1} ke {file2}&#34;</span>)
+
+<span style="color:#75715e"># membuka file awal</span>
+file_awal <span style="color:#f92672">=</span> open(file1)
+<span style="color:#75715e"># membaca isi file</span>
+data_awal <span style="color:#f92672">=</span> file_awal<span style="color:#f92672">.</span>read()
+
+<span style="color:#75715e"># menghitung panjang dari string menggunakan len </span>
+<span style="color:#66d9ef">print</span>(f<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;besar file yang akan disalin adalah {len(data_awal)} bytes&#34;</span>)
+
+<span style="color:#75715e"># penggunaaan modul exist</span>
+<span style="color:#66d9ef">print</span>(f<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;apakah {file2} sudah tersedia? {exists(file2)}&#34;</span>)
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;tekan enter jika ingin melanjutkan proses, dan tekan ctrl+c untuk membatalkan&#34;</span>)
+input()
+
+<span style="color:#75715e"># membuka file yang akan diisi</span>
+file_dua <span style="color:#f92672">=</span> open(file2, <span style="color:#e6db74"></span><span style="color:#e6db74">&#39;w&#39;</span>)
+<span style="color:#75715e"># menulis isi file</span>
+file_dua<span style="color:#f92672">.</span>write(data_awal)
+
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Penyalinan isi file telah selesai&#34;</span>)
+
+<span style="color:#75715e"># menutup semua file</span>
+file_awal<span style="color:#f92672">.</span>close()
+file_dua<span style="color:#f92672">.</span>close()</code></pre></div>
+<p>Skrip satu baris dan menghapus modul pada skri lengkap :</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">from</span> sys <span style="color:#f92672">import</span> argv;script, file1, file2 <span style="color:#f92672">=</span> argv;<span style="color:#66d9ef">print</span>(f<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Menyalin isi dari {file1} ke {file2}&#34;</span>);file_awal <span style="color:#f92672">=</span> open(file1);data_awal <span style="color:#f92672">=</span> file_awal<span style="color:#f92672">.</span>read();<span style="color:#66d9ef">print</span>(f<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;besar file yang akan disalin adalah {len(data_awal)} bytes&#34;</span>);<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;tekan enter jika ingin melanjutkan proses, dan tekan ctrl+c untuk membatalkan&#34;</span>);input();file_dua <span style="color:#f92672">=</span> open(file2, <span style="color:#e6db74"></span><span style="color:#e6db74">&#39;w&#39;</span>);file_dua<span style="color:#f92672">.</span>write(data_awal);<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Penyalinan isi file telah selesai&#34;</span>);file_awal<span style="color:#f92672">.</span>close();file_dua<span style="color:#f92672">.</span>close()</code></pre></div>
+<p>Untuk menjadikan satu baris seperti diatas adalah mengganti enter/baris baru dengan tanda <strong>(;)</strong>, bisa perhatikan file diatas.</p>
+
+      <footer class="entry-meta">
+          
+        <span class="entry-tags"><a href="https://choiril.github.io/tags/#%23100daysofcode" title="Pages tagged #100daysofcode" class="tag"><span class="term">#100daysofcode</span></a><a href="https://choiril.github.io/tags/#python" title="Pages tagged python" class="tag"><span class="term">python</span></a><a href="https://choiril.github.io/tags/#challenges" title="Pages tagged challenges" class="tag"><span class="term">challenges</span></a><a href="https://choiril.github.io/tags/#%23100daysofwriting" title="Pages tagged #100daysofwriting" class="tag"><span class="term">#100daysofwriting</span></a></span>
+        
+        
+        <div class="social-share">
+  <ul class="socialcount socialcount-small inline-list">
+    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fchoiril.github.io%2fposts%2fbermain-dengan-file-di-python%2f" target="_blank" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Like</span></a></li>
+    <li class="twitter"><a href="https://twitter.com/intent/tweet?text=https%3a%2f%2fchoiril.github.io%2fposts%2fbermain-dengan-file-di-python%2f" target="_blank" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Tweet</span></a></li>
+    <li class="googleplus"><a href="https://plus.google.com/share?url=https%3a%2f%2fchoiril.github.io%2fposts%2fbermain-dengan-file-di-python%2f" target="_blank" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
+  </ul>
+</div>
+
+      </footer>
+    </div>
+    
+    <section id="disqus_thread"><div id="disqus_thread"></div>
+<script type="text/javascript">
+
+(function() {
+    
+    
+    if (window.location.hostname == "localhost")
+        return;
+
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'choiril';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+    
+  </article>
+</div>
+
+<div class="footer-wrapper">
+  <footer role="contentinfo">
+    <span>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.
+<br> Powered by <a href="https://gohugo.io/" rel="nofollow">Hugo</a> using the <a href="https://github.com/dldx/hpstr-hugo-theme" rel="nofollow">HPSTR</a> theme.</span>
+
+  </footer>
+</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="\/js\/vendor\/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="https://choiril.github.io/js/scripts.min.js"></script>
+
+
+
+</body>
+</html>
+
