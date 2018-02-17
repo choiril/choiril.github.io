@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Fri, 16 Feb 2018 20:28:16 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2018 20:29:59 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Membuat Fungsi Pada Python</title>
+      <link>https://choiril.github.io/posts/membuat-fungsi-pada-python/</link>
+      <pubDate>Sat, 17 Feb 2018 20:29:59 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/membuat-fungsi-pada-python/</guid>
+      <description>Gini nih kalau koneksi internet masih menumpang di sekolah dekat rumah, banyak yang akses dan lemotnya itu lho membuat tidak sabar walau begitu belajar tak boleh ketinggalan. Pada latihan ke-18 ini belajar membuat sebuah fungsi pada Python. Fungsi pada Python dapat dibuat dengan def, dengan fungsi kita dapat memanggil lagi kode yang telah ditulis sehingga kita tidak perlu repot-repot menulis ulang apalagai kalu kodeya panjang membuat malas menulisnya lagi jadi cukup memanggil fungsi pendek yang telah kita buat maka inti dari kodenya bisa dibuat.</description>
+    </item>
     
     <item>
       <title>Bermain Dengan File Di Python</title>

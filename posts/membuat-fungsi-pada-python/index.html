@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Membuat Fungsi Pada Python &#8211; CH WEBLOG</title>
+<meta name="description" content="">
+
+    
+
+<meta name="keywords" content="#100daysofcode, python, challenges, #100daysofwriting">
+
+
+
+<meta name="twitter:title" content="Membuat Fungsi Pada Python">
+<meta name="twitter:description" content="Personal Weblog Choiril Abdul">
+
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:title" content="Membuat Fungsi Pada Python">
+<meta property="og:description" content="Personal Weblog Choiril Abdul">
+<meta property="og:url" content="https://choiril.github.io/posts/membuat-fungsi-pada-python/">
+<meta property="og:site_name" content="CH WEBLOG">
+
+
+
+  <meta property="og:updated_time" content="2018-02-17T20:29:59&#43;07:00"/>
+
+
+
+
+
+
+<link rel="canonical" href="https://choiril.github.io/posts/membuat-fungsi-pada-python/">
+
+
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<link rel="stylesheet" href="https://choiril.github.io/css/main.css">
+
+<link href="//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic" rel="stylesheet" type="text/css">
+
+<meta http-equiv="cleartype" content="on">
+
+<meta name="generator" content="Hugo 0.35" />
+
+<script src="https://choiril.github.io/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+
+<link rel="shortcut icon" href="https://choiril.github.io/favicon.png">
+
+
+</head>
+
+<body id="post" >
+<nav id="dl-menu" class="dl-menuwrapper" role="navigation" style="display:inline-block">
+	<button class="dl-trigger">Open Menu</button>
+	<ul class="dl-menu">
+		<li><a href="https://choiril.github.io/">Home</a></li>
+		<li>
+			<a href="#">About</a>
+			<ul class="dl-submenu">
+			
+				<li>
+					
+					<img src="https://choiril.github.io/images/avatar.jpg" alt="Choiril Abdul's photo" class="author-photo">
+					
+					<h4>Choiril Abdul</h4>
+					<p>Penikmat Teknologi</p>
+				</li>
+				<li><a href="https://choiril.github.io/about/"><span class="btn btn-inverse">Learn More</span></a></li>
+				
+				
+				<li>
+					<a href="https://facebook.com/choiril.abdul"><i class="fa fa-fw fa-facebook"></i> Facebook</a>
+				</li>
+				
+				
+				<li>
+					<a href="https://github.com/choiril"><i class="fa fa-fw fa-github"></i> GitHub</a>
+				</li>
+				
+				
+				
+				
+			
+			</ul>
+		</li>
+		<li>
+			<a href="#">Posts</a>
+			<ul class="dl-submenu">
+				<li><a href="https://choiril.github.io/posts/">All Posts</a></li>
+				<li><a href="https://choiril.github.io/tags/">All Tags</a></li>
+			</ul>
+		</li>
+		
+	</ul>
+</nav>
+
+ 
+
+<div id="main" role="main">
+  <article class="hentry">
+    <header class="header-title">
+      <div class="header-title-wrap">
+        
+          <h1 class="entry-title"><a href="https://choiril.github.io/posts/membuat-fungsi-pada-python/" rel="bookmark" title="Membuat Fungsi Pada Python">Membuat Fungsi Pada Python</a></h1>
+        
+         
+        <h2><span class="entry-date date published"><time datetime="2018-02-17 20:29:59 &#43;0700 WIB">February 17, 2018</time></span></h2>
+        
+      <p class="entry-reading-time">
+        <i class="fa fa-clock-o"></i>
+        Reading time ~2 minutes
+    </p>
+      </div>
+    </header>
+    <div class="entry-content">
+      <p>Gini nih kalau koneksi internet masih menumpang di sekolah dekat rumah, banyak yang akses dan lemotnya itu lho membuat tidak sabar walau begitu belajar tak boleh ketinggalan. Pada latihan ke-18 ini belajar membuat sebuah fungsi pada Python. Fungsi pada Python dapat dibuat dengan <code>def</code>, dengan fungsi kita dapat memanggil lagi kode yang telah ditulis sehingga kita tidak perlu repot-repot menulis ulang apalagai kalu kodeya panjang membuat malas menulisnya lagi jadi cukup memanggil fungsi pendek yang telah kita buat maka inti dari kodenya bisa dibuat. Apakah masih bingung?
+<br></p>
+
+<p>Langsung saja ke kode yang saya buat sesuai ebooknya, untuk kode kali ini study drillnya agak membingungkan jadi saya tuils ulang dan rubah ke bahasa Inonesia yang tentunya dengan pemberian komentar setiap baris kodenya:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#75715e"># belajar membuat fungsi pada Python</span>
+
+<span style="color:#75715e"># membuat fungsi1 yang berisikan argeumen &#34;kata&#34;, def kepanjangan dari define. yang artinya menentukan sebuah fungsi</span>
+<span style="color:#75715e"># setiap pembuatan fungsi diakhiri dengan :, setelah : kode selanjutnya akan menjorok kedalam</span>
+<span style="color:#66d9ef">def</span> <span style="color:#a6e22e">fungsi1</span>(<span style="color:#f92672">*</span>kata):
+<span style="color:#75715e"># ini adalah isi dari fungsi</span>
+	kata1, kata2 <span style="color:#f92672">=</span> kata
+	<span style="color:#66d9ef">print</span>(f<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Kata pertama: {kata1}, kata kedua: {kata2}&#34;</span>)
+
+<span style="color:#75715e"># membuat fungsi1_lagi yang mana pada fungsi ini argumen lebih dibuat simpel</span>
+<span style="color:#66d9ef">def</span> <span style="color:#a6e22e">fungsi1_lagi</span>(kata1, kata2):
+<span style="color:#75715e"># ini adalah isi dari fungsi</span>
+	<span style="color:#66d9ef">print</span>(f<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Kata pertama: {kata1}, kata kedua: {kata2}&#34;</span>)
+
+<span style="color:#75715e"># membuat fungsi2 dengan satu argumen</span>
+<span style="color:#66d9ef">def</span> <span style="color:#a6e22e">fungsi2</span>(kata1):
+<span style="color:#75715e"># ini adalah isi dari fungsi</span>
+	<span style="color:#66d9ef">print</span>(f<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;kata pertama: {kata1}&#34;</span>)
+
+<span style="color:#75715e"># membuat fungsi3 tanpa argumen</span>
+<span style="color:#66d9ef">def</span> <span style="color:#a6e22e">fungsi3</span>():
+<span style="color:#75715e"># ini adalah isi dari fungsi</span>
+	<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Tidak ada kata&#34;</span>)
+
+<span style="color:#75715e"># memanggil fungsi </span>
+fungsi1(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;variabel satu&#34;</span>, <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;variabel dua&#34;</span>)
+fungsi1_lagi(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;variabel tiga&#34;</span>, <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;variabel empat&#34;</span>)
+fungsi2(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;variabel lima&#34;</span>)
+fungsi3()</code></pre></div>
+      <footer class="entry-meta">
+          
+        <span class="entry-tags"><a href="https://choiril.github.io/tags/#%23100daysofcode" title="Pages tagged #100daysofcode" class="tag"><span class="term">#100daysofcode</span></a><a href="https://choiril.github.io/tags/#python" title="Pages tagged python" class="tag"><span class="term">python</span></a><a href="https://choiril.github.io/tags/#challenges" title="Pages tagged challenges" class="tag"><span class="term">challenges</span></a><a href="https://choiril.github.io/tags/#%23100daysofwriting" title="Pages tagged #100daysofwriting" class="tag"><span class="term">#100daysofwriting</span></a></span>
+        
+        
+        <div class="social-share">
+  <ul class="socialcount socialcount-small inline-list">
+    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fchoiril.github.io%2fposts%2fmembuat-fungsi-pada-python%2f" target="_blank" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Like</span></a></li>
+    <li class="twitter"><a href="https://twitter.com/intent/tweet?text=https%3a%2f%2fchoiril.github.io%2fposts%2fmembuat-fungsi-pada-python%2f" target="_blank" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Tweet</span></a></li>
+    <li class="googleplus"><a href="https://plus.google.com/share?url=https%3a%2f%2fchoiril.github.io%2fposts%2fmembuat-fungsi-pada-python%2f" target="_blank" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
+  </ul>
+</div>
+
+      </footer>
+    </div>
+    
+    <section id="disqus_thread"><div id="disqus_thread"></div>
+<script type="text/javascript">
+
+(function() {
+    
+    
+    if (window.location.hostname == "localhost")
+        return;
+
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'choiril';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+    
+  </article>
+</div>
+
+<div class="footer-wrapper">
+  <footer role="contentinfo">
+    <span>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.
+<br> Powered by <a href="https://gohugo.io/" rel="nofollow">Hugo</a> using the <a href="https://github.com/dldx/hpstr-hugo-theme" rel="nofollow">HPSTR</a> theme.</span>
+
+  </footer>
+</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="\/js\/vendor\/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="https://choiril.github.io/js/scripts.min.js"></script>
+
+
+
+</body>
+</html>
+
