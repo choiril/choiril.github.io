@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Sat, 17 Feb 2018 20:29:59 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2018 20:14:58 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/tags/#100daysofcode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fungsi Dan Variabel</title>
+      <link>https://choiril.github.io/posts/fungsi-dan-variabel/</link>
+      <pubDate>Sun, 18 Feb 2018 20:14:58 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/fungsi-dan-variabel/</guid>
+      <description>Sebelum ke intinya saya akan sedikit bercerita tentang pelajaran tambahan yang saya pelajari, yaitu belajar scrape data menggunkan Python. Meski masih awam, tapi skripnya masih menggunakan fungsi jadi sedikit lebih paham. Saya belajar scrape untuk menunjang pencarian data, tapi masih belum terlalu jauh baru mencari data seadanya. Bahkan ada web yang belum bisa saya scrape padahal cuma mencari jumlah dataset pada https://data.go.id/dataset yang menggunakan tag html saja, output yang saya dapat hanya kosong tidak ada angkanya.</description>
+    </item>
     
     <item>
       <title>Membuat Fungsi Pada Python</title>
