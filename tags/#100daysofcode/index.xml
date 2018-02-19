@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Sun, 18 Feb 2018 20:14:58 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2018 20:09:59 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/tags/#100daysofcode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bermain Dengan File Dan Fungsi Di Python</title>
+      <link>https://choiril.github.io/posts/bermain-dengan-file-dan-fungsi-di-python/</link>
+      <pubDate>Mon, 19 Feb 2018 20:09:59 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/bermain-dengan-file-dan-fungsi-di-python/</guid>
+      <description>Hari ke-20 ini bertepatan dengan dibukanya pendaftaran peserta LibreOffice Confrence Indonesia 2018, yang mana acara tersebut menurut web libreoffice.id adalah ajang berkumpul penggiat dan pengguna LibreOffice yang mengutamakan kontribusi yang nyata pada kemajuan kemerdekaan perangkat lunak. Acara tersebut akan diselanggarakan pada tanggal 23 - 25 Maret 2018 dan untuk pendaftaran menjadi peserta ditutup pada tanggal 18 Maret 2018.
+Untuk pembicaranya langsung dari pendiri The Document Foundation. Selain beliau ada juga pembicara dari Komunitas LbreOffice Indonesia, salah satu SMK di Surabaya yang mengangkat tema Go Open Source, Penulis Buku LibreOffice Indonesia, pak Sokibi dan masih banyak lagi.</description>
+    </item>
     
     <item>
       <title>Fungsi Dan Variabel</title>
