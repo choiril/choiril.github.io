@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Mon, 19 Feb 2018 20:09:59 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2018 21:01:23 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/tags/challenges/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fungsi Dan Return Python</title>
+      <link>https://choiril.github.io/posts/fungsi-dan-return-python/</link>
+      <pubDate>Tue, 20 Feb 2018 21:01:23 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/fungsi-dan-return-python/</guid>
+      <description>Sebelum menuliskan jurnal belajar di hari ke-21, saya akan bercerita sedikit tentang tadi siang yaitu menemukan sesuatu yang menarik perhatian di salah satu website milik Stanford University. Hal menarik tersebut adalah computational jurnalism atau jurnalisme komputasional, menurut wikipedia Jurnalisme Komputasional dapat diartikan sebagai penerapan perhitungan terhadap aktivitas jurnalistik seperti pengumpulan informasi, pengorganisasian, sensemaking, komunikasi dan penyebaran informasi berita, sekaligus menjunjung tinggi nilai jurnalistik seperti ketepatan dan ketelitian. Bidang ini mengacu pada aspek teknis ilmu komputer termasuk kecerdasan buatan, analisis isi (NLP, vision, audition), visualisasi, personalisasi dan sistem recommender serta aspek komputasi sosial dan sains informasi.</description>
+    </item>
     
     <item>
       <title>Bermain Dengan File Dan Fungsi Di Python</title>
@@ -18,8 +27,7 @@
       <pubDate>Mon, 19 Feb 2018 20:09:59 +0700</pubDate>
       
       <guid>https://choiril.github.io/posts/bermain-dengan-file-dan-fungsi-di-python/</guid>
-      <description>Hari ke-20 ini bertepatan dengan dibukanya pendaftaran peserta LibreOffice Confrence Indonesia 2018, yang mana acara tersebut menurut web libreoffice.id adalah ajang berkumpul penggiat dan pengguna LibreOffice yang mengutamakan kontribusi yang nyata pada kemajuan kemerdekaan perangkat lunak. Acara tersebut akan diselanggarakan pada tanggal 23 - 25 Maret 2018 dan untuk pendaftaran menjadi peserta ditutup pada tanggal 18 Maret 2018.
-Untuk pembicaranya langsung dari pendiri The Document Foundation. Selain beliau ada juga pembicara dari Komunitas LbreOffice Indonesia, salah satu SMK di Surabaya yang mengangkat tema Go Open Source, Penulis Buku LibreOffice Indonesia, pak Sokibi dan masih banyak lagi.</description>
+      <description>Hari ke-20 ini bertepatan dengan dibukanya pendaftaran peserta LibreOffice Confrence Indonesia 2018, yang mana acara tersebut menurut web libreoffice.id adalah ajang berkumpul penggiat dan pengguna LibreOffice yang mengutamakan kontribusi yang nyata pada kemajuan kemerdekaan perangkat lunak. Acara tersebut akan diselanggarakan pada tanggal 23 - 25 Maret 2018 dan untuk pendaftaran menjadi peserta ditutup pada tanggal 18 Maret 2018. Untuk pembicaranya langsung dari pendiri The Document Foundation. Selain beliau ada juga pembicara dari Komunitas LbreOffice Indonesia, salah satu SMK di Surabaya yang mengangkat tema Go Open Source, Penulis Buku LibreOffice Indonesia, pak Sokibi dan masih banyak lagi.</description>
     </item>
     
     <item>
