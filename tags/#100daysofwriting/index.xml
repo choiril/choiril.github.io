@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Tue, 20 Feb 2018 21:01:23 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2018 20:18:53 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/tags/#100daysofwriting/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mengingat Kembali Python</title>
+      <link>https://choiril.github.io/posts/mengingat-kembali-python/</link>
+      <pubDate>Thu, 22 Feb 2018 20:18:53 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/mengingat-kembali-python/</guid>
+      <description>Hampir satu bulan dan sudah 3x saya libur belajar, kemarin libur belajar karena dimintai keponakan membantu membuat klipping. Untuk hari ini akan langsung belajar ke Bab 24 karena bab 22 dan 23 tidak ada file latihannya hanya sebuah pengingat bahwa separuh dari ebook telah dipelajari dan apakah ada kesulitan atau bagaian yang kurang dipahami. 
+Untuk hari ke-22 dengan bab ke 24 yang mana kita akan membuat atau menulis ulang apa yang telah kita pelajari, dari print, membuat variabel dan nilai, string, format string.</description>
+    </item>
     
     <item>
       <title>Fungsi Dan Return Python</title>
