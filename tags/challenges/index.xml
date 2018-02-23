@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Thu, 22 Feb 2018 20:18:53 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2018 20:59:22 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/tags/challenges/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Penggunaan Fungsi Lain Python</title>
+      <link>https://choiril.github.io/posts/penggunaan-fungsi-lain-python/</link>
+      <pubDate>Fri, 23 Feb 2018 20:59:22 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/penggunaan-fungsi-lain-python/</guid>
+      <description>Pada hari ke-23 di bab 25 masih mengulang tentang fungsi Python, sama seperti apa yang ditulis dalam ebook bahwa latihan kali ini agak berbeda dari sebelumnya. Di bab 25 ini kita akan membuat 2 file yang berbeda, file pertama akan berisi beberapa fungsi yang akan dipanggil di file kedua. Di file kedua kita akan membuat string dan pemanggilan fungsi yang ada pada file pertama.Apakah masih bingung? awalnya saya juga bingung, dan banyak error di file kedua.</description>
+    </item>
     
     <item>
       <title>Mengingat Kembali Python</title>
