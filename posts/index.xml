@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Fri, 23 Feb 2018 20:59:22 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2018 20:45:22 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kuis Latihan Python</title>
+      <link>https://choiril.github.io/posts/kuis-latihan-python/</link>
+      <pubDate>Sat, 24 Feb 2018 20:45:22 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/kuis-latihan-python/</guid>
+      <description>Karena telah separuh ebook dipelajari, maka ada kuis latihan. Untuk kuisnya kita disuruh mendownload file yang ada di http://learnpythonthehardway.org/python3/exercise26.txt, tugas kita selanjutnya adalah mengkoreksi dari file yang sudah di download. File tadi berisi kode latihan yang sudah dipelajari, jadi latihanini tujuan sebenarnya unuk mengingat kembali apa yang telah dipelajari.
+File tugas kali ini tidak saya rubah ke bahasa Indonesia, hanya saya beri komentar bahasa Indonesia dimana letak kesalahannya. Berikut hasil koreksi saya :</description>
+    </item>
     
     <item>
       <title>Penggunaan Fungsi Lain Python</title>
