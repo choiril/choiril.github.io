@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Sun, 25 Feb 2018 14:07:38 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2018 20:09:51 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>If Statement Pada Pyhton</title>
+      <link>https://choiril.github.io/posts/if-statement-pada-pyhton/</link>
+      <pubDate>Sun, 25 Feb 2018 20:09:51 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/if-statement-pada-pyhton/</guid>
+      <description>Hari ke-25 ini belajar tentang if-statement, atau sering disebut dengan bentuk kondisional. If-statement berlaku jika ada sebuah percabangan atau pilihan, misal apel ada lima buah dan anggur ada 10 buah. Jika apel lebih banyak dari banyak anggur maka yang dimakan lebih dahulu anggur, kurang lebih seperti itu penggunaan if-statement. Tak hanya Python saja, bahasa pemrograman lain juga juga menggunakan if-statement saat menghadapi sebuah pilihan ata percabangan.
+Jawaban dari study drill :</description>
+    </item>
     
     <item>
       <title>Jurnalisme Komputasional</title>
