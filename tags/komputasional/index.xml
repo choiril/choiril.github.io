@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Komputasional on CH WEBLOG</title>
+    <link>https://choiril.github.io/tags/komputasional/</link>
+    <description>Recent content in Komputasional on CH WEBLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Sun, 25 Feb 2018 14:07:38 +0700</lastBuildDate>
+    
+	<atom:link href="https://choiril.github.io/tags/komputasional/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jurnalisme Komputasional</title>
+      <link>https://choiril.github.io/posts/jurnalisme-komputasional/</link>
+      <pubDate>Sun, 25 Feb 2018 14:07:38 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/jurnalisme-komputasional/</guid>
+      <description>Junalisme kompuatsional? ya, sebagian orang Indonesia masih sedikit asing dengan kata ini termasuk saya. Awal mula saya mengenal kata ini saat mencari materi tentang data scientist atau ilmuwan data. Saat mencari di mesin pencarian google maupun duckduckgo dengan kata kunci &amp;ldquo;jurnalisme komputasional&amp;rdquo; dalam bahasa Indonesia, saya belum menemukan situs yang membahas ini, yang ada malah data driven journalism. Saya sendiri masih belum tahu apa itu data driven journalism, apakah sama dengan dengan jurnalisme komputasional tapi ketika menggunakan pencarian bahasa Inggris data driven journalism dan computational journalism menghasilkan keluaran yang berbeda.</description>
+    </item>
+    
+  </channel>
+</rss>
