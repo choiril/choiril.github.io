@@ -5,7 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Hari Kedua Tantangan &#8211; CH WEBLOG</title>
+<title>Else if Pada Python &#8211; CH WEBLOG</title>
 <meta name="description" content="">
 
     
@@ -14,28 +14,28 @@
 
 
 
-<meta name="twitter:title" content="Hari Kedua Tantangan">
+<meta name="twitter:title" content="Else if Pada Python">
 <meta name="twitter:description" content="Personal Weblog Choiril Abdul">
 
 
 
 
 <meta property="og:type" content="article">
-<meta property="og:title" content="Hari Kedua Tantangan">
+<meta property="og:title" content="Else if Pada Python">
 <meta property="og:description" content="Personal Weblog Choiril Abdul">
-<meta property="og:url" content="https://choiril.github.io/posts/hari-kedua-tantangan/">
+<meta property="og:url" content="https://choiril.github.io/posts/else-if-pada-python/">
 <meta property="og:site_name" content="CH WEBLOG">
 
 
 
-  <meta property="og:updated_time" content="2018-01-30T21:13:02&#43;07:00"/>
+  <meta property="og:updated_time" content="2018-02-26T19:57:53&#43;07:00"/>
 
 
 
 
 
 
-<link rel="canonical" href="https://choiril.github.io/posts/hari-kedua-tantangan/">
+<link rel="canonical" href="https://choiril.github.io/posts/else-if-pada-python/">
 
 
 <meta name="HandheldFriendly" content="True">
@@ -111,38 +111,43 @@
     <header class="header-title">
       <div class="header-title-wrap">
         
-          <h1 class="entry-title"><a href="https://choiril.github.io/posts/hari-kedua-tantangan/" rel="bookmark" title="Hari Kedua Tantangan">Hari Kedua Tantangan</a></h1>
+          <h1 class="entry-title"><a href="https://choiril.github.io/posts/else-if-pada-python/" rel="bookmark" title="Else if Pada Python">Else if Pada Python</a></h1>
         
          
-        <h2><span class="entry-date date published"><time datetime="2018-01-30 21:13:02 &#43;0700 WIB">January 30, 2018</time></span></h2>
+        <h2><span class="entry-date date published"><time datetime="2018-02-26 19:57:53 &#43;0700 WIB">February 26, 2018</time></span></h2>
         
       <p class="entry-reading-time">
         <i class="fa fa-clock-o"></i>
-        Reading time ~2 minutes
+        Reading time ~1 minute
     </p>
       </div>
     </header>
     <div class="entry-content">
-      <p>&ldquo;Rasa malas akan terus menjalar kedalam diri, hanya dengan hati yang tangguh rasa tersebut akan kalah. Kemalasan memiliki dua mata yang cukup tangguh, jikalau digunakan dengan benar maka akan menemukan sebuah inovasi baru. Namun ketika terbalik akan menimbulkan penyesalan.&rdquo;
-<br></p>
+      <p>Hari ke-26 ini masih tentang if statement tetapi ada penambahan sintaks yaitu else-if, else-if ini berguna ketika terdapat banyak pilihan atau percabangan. Misal kita terdapat 4 pilihan, else-if ini yang akan digunakan. Else-if ini akan mnegecek satu persatu kodenya jika kode benar langsung dicetak outputnya, jika pilihan pertama masih belum benar maka akan lanjut ke pilihan kedua, dan begitu seterusnya sampai ada nilainya menghasilkan True (benar). Karena materi ini cukup mudah jadi artikelnya tidak terlalu panjang dan langsung ke hasil studynya.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#75715e"># membuat variabel</span>
+sopir <span style="color:#f92672">=</span> <span style="color:#ae81ff">50</span>
+mobil <span style="color:#f92672">=</span> <span style="color:#ae81ff">43</span>
+truk <span style="color:#f92672">=</span> <span style="color:#ae81ff">21</span>
 
-<p>Hari ini adalah hari kedua saya melakukan belajar pemrograman Python 3, saya akui pada hari ini saya merasa malas gara-gara tadi keasyikan bermain dengan inkscape setelah lihat-lihat karya di grup telegram gimscape indonesia :) jadi saya tertarik untuk membuat karya. Dan hasilnya masih belum sesuai dengan ide desainnya.</p>
-
-<p>Pada hari ini masih lanjutan dari kemarin tentang tanda pagar (#), tanda ini sangatlah penting bagi penulis kode. tanda # ini diberikan untuk memberikan keterangan tentang kode yang ditulis, kalau bahasa programmernya disebut komentar. Untuk lebih jelasnya silahkan tulis baris kode berikut pada teks editor kalian :</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#75715e"># A comment, this is so you can read your program later.</span>
-<span style="color:#75715e"># Anything after the # is ignored by python.</span>
-<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;I could have code like this.&#34;</span>) <span style="color:#75715e"># and the comment after is ignored</span>
-<span style="color:#75715e"># You can also use a comment to &#34;disable&#34; or comment out code:</span>
-<span style="color:#75715e"># print(&#34;This won&#39;t run.&#34;)</span>
-<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;This will run.&#34;</span>)
-<span style="color:#75715e">#komentar tidak akan dibaca oleh program</span>
-<span style="color:#75715e">#komentar pada python di awali dengan tanda pagar (#)</span>
-<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Ini akan ditampilkan dalam program&#34;</span>)
-<span style="color:#75715e">#print(&#34;karena ada tanda #, maka tidak dibaca oleh program&#34;)</span></code></pre></div>
-<p>Simpan kode tersebut dan beri nama lat2.py atau bisa menyalin dari repositori saya, untuk pada bab ini pada ebook Learn Python 3 The Hardway latihannya hanya mengamati apakah ada salah atau tidak dalam kode. Karena itu saja tulisan ini juga sedikit, pasti ada pertanyaan kenapa tidak langsung 2 bab sekaligus kalau sedikit. Hal ini dikarenakan saya mencoba untuk konsisten satu hari hanya satu bab, tapi entah untuk bab yang sudah mendekati angka puluhan apaa akan selesai untuk satu hari satu bab :)</p>
-
-<p>Terima kasih sudah membaca.</p>
-
+<span style="color:#75715e"># penggunaan if, jika mobil lebih banyak dari sopir maka cetak Kita kekurangan sopir</span>
+<span style="color:#66d9ef">if</span> mobil <span style="color:#f92672">&gt;</span> sopir:
+	<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Kita kekurangan sopir&#34;</span>)
+	<span style="color:#75715e"># jika mobil kurang dari sopir maka cetak Mobil dapat kita bawa semua</span>
+<span style="color:#66d9ef">elif</span> mobil <span style="color:#f92672">&lt;</span> sopir:
+	<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Mobil dapat kita bawa semua&#34;</span>)
+	<span style="color:#75715e"># jika kedua pernyataan diatas salah maka cetak Tidak ada pilihan yang tersedia</span>
+<span style="color:#66d9ef">else</span>:
+	<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Tidak ada pilihan yang tersedia&#34;</span>)
+<span style="color:#66d9ef">if</span> truk <span style="color:#f92672">&gt;</span> mobil:
+	<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Terdapat banyak truk disini.&#34;</span>)
+<span style="color:#66d9ef">elif</span> truk <span style="color:#f92672">&lt;</span> mobil:
+	<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Kita bawa truk&#34;</span>)
+<span style="color:#66d9ef">else</span>:
+	<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Tak ada pilihan tersedia&#34;</span>)
+<span style="color:#66d9ef">if</span> sopir <span style="color:#f92672">&gt;</span> truk:
+	<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Kita dapat membawa truk&#34;</span>)
+<span style="color:#66d9ef">else</span>:
+	<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Truk tidak dapat&#34;</span>)</code></pre></div>
       <footer class="entry-meta">
           
         <span class="entry-tags"><a href="https://choiril.github.io/tags/#%23100daysofcode" title="Pages tagged #100daysofcode" class="tag"><span class="term">#100daysofcode</span></a><a href="https://choiril.github.io/tags/#python" title="Pages tagged python" class="tag"><span class="term">python</span></a><a href="https://choiril.github.io/tags/#challenges" title="Pages tagged challenges" class="tag"><span class="term">challenges</span></a><a href="https://choiril.github.io/tags/#%23100daysofwriting" title="Pages tagged #100daysofwriting" class="tag"><span class="term">#100daysofwriting</span></a></span>
@@ -150,9 +155,9 @@
         
         <div class="social-share">
   <ul class="socialcount socialcount-small inline-list">
-    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fchoiril.github.io%2fposts%2fhari-kedua-tantangan%2f" target="_blank" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Like</span></a></li>
-    <li class="twitter"><a href="https://twitter.com/intent/tweet?text=https%3a%2f%2fchoiril.github.io%2fposts%2fhari-kedua-tantangan%2f" target="_blank" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Tweet</span></a></li>
-    <li class="googleplus"><a href="https://plus.google.com/share?url=https%3a%2f%2fchoiril.github.io%2fposts%2fhari-kedua-tantangan%2f" target="_blank" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
+    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fchoiril.github.io%2fposts%2felse-if-pada-python%2f" target="_blank" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Like</span></a></li>
+    <li class="twitter"><a href="https://twitter.com/intent/tweet?text=https%3a%2f%2fchoiril.github.io%2fposts%2felse-if-pada-python%2f" target="_blank" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Tweet</span></a></li>
+    <li class="googleplus"><a href="https://plus.google.com/share?url=https%3a%2f%2fchoiril.github.io%2fposts%2felse-if-pada-python%2f" target="_blank" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
   </ul>
 </div>
 

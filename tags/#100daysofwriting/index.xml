@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Sun, 25 Feb 2018 20:09:51 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2018 19:57:53 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/tags/#100daysofwriting/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Else if Pada Python</title>
+      <link>https://choiril.github.io/posts/else-if-pada-python/</link>
+      <pubDate>Mon, 26 Feb 2018 19:57:53 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/else-if-pada-python/</guid>
+      <description>Hari ke-26 ini masih tentang if statement tetapi ada penambahan sintaks yaitu else-if, else-if ini berguna ketika terdapat banyak pilihan atau percabangan. Misal kita terdapat 4 pilihan, else-if ini yang akan digunakan. Else-if ini akan mnegecek satu persatu kodenya jika kode benar langsung dicetak outputnya, jika pilihan pertama masih belum benar maka akan lanjut ke pilihan kedua, dan begitu seterusnya sampai ada nilainya menghasilkan True (benar). Karena materi ini cukup mudah jadi artikelnya tidak terlalu panjang dan langsung ke hasil studynya.</description>
+    </item>
     
     <item>
       <title>If Statement Pada Pyhton</title>
