@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Membuat Game if Elif Else Python &#8211; CH WEBLOG</title>
+<meta name="description" content="">
+
+    
+
+<meta name="keywords" content="#100daysofcode, python, challenges, #100daysofwriting">
+
+
+
+<meta name="twitter:title" content="Membuat Game if Elif Else Python">
+<meta name="twitter:description" content="Personal Weblog Choiril Abdul">
+
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:title" content="Membuat Game if Elif Else Python">
+<meta property="og:description" content="Personal Weblog Choiril Abdul">
+<meta property="og:url" content="https://choiril.github.io/posts/membuat-game-if-elif-else-python/">
+<meta property="og:site_name" content="CH WEBLOG">
+
+
+
+  <meta property="og:updated_time" content="2018-02-27T20:21:14&#43;07:00"/>
+
+
+
+
+
+
+<link rel="canonical" href="https://choiril.github.io/posts/membuat-game-if-elif-else-python/">
+
+
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<link rel="stylesheet" href="https://choiril.github.io/css/main.css">
+
+<link href="//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic" rel="stylesheet" type="text/css">
+
+<meta http-equiv="cleartype" content="on">
+
+<meta name="generator" content="Hugo 0.36.1" />
+
+<script src="https://choiril.github.io/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+
+<link rel="shortcut icon" href="https://choiril.github.io/favicon.png">
+
+
+</head>
+
+<body id="post" >
+<nav id="dl-menu" class="dl-menuwrapper" role="navigation" style="display:inline-block">
+	<button class="dl-trigger">Open Menu</button>
+	<ul class="dl-menu">
+		<li><a href="https://choiril.github.io/">Home</a></li>
+		<li>
+			<a href="#">About</a>
+			<ul class="dl-submenu">
+			
+				<li>
+					
+					<img src="https://choiril.github.io/images/avatar.jpg" alt="Choiril Abdul's photo" class="author-photo">
+					
+					<h4>Choiril Abdul</h4>
+					<p>Penikmat Teknologi</p>
+				</li>
+				<li><a href="https://choiril.github.io/about/"><span class="btn btn-inverse">Learn More</span></a></li>
+				
+				
+				<li>
+					<a href="https://facebook.com/choiril.abdul"><i class="fa fa-fw fa-facebook"></i> Facebook</a>
+				</li>
+				
+				
+				<li>
+					<a href="https://github.com/choiril"><i class="fa fa-fw fa-github"></i> GitHub</a>
+				</li>
+				
+				
+				
+				
+			
+			</ul>
+		</li>
+		<li>
+			<a href="#">Posts</a>
+			<ul class="dl-submenu">
+				<li><a href="https://choiril.github.io/posts/">All Posts</a></li>
+				<li><a href="https://choiril.github.io/tags/">All Tags</a></li>
+			</ul>
+		</li>
+		
+	</ul>
+</nav>
+
+ 
+
+<div id="main" role="main">
+  <article class="hentry">
+    <header class="header-title">
+      <div class="header-title-wrap">
+        
+          <h1 class="entry-title"><a href="https://choiril.github.io/posts/membuat-game-if-elif-else-python/" rel="bookmark" title="Membuat Game if Elif Else Python">Membuat Game if Elif Else Python</a></h1>
+        
+         
+        <h2><span class="entry-date date published"><time datetime="2018-02-27 20:21:14 &#43;0700 WIB">February 27, 2018</time></span></h2>
+        
+      <p class="entry-reading-time">
+        <i class="fa fa-clock-o"></i>
+        Reading time ~3 minutes
+    </p>
+      </div>
+    </header>
+    <div class="entry-content">
+      <p>Dua hari berturut-turut telah belajar tentang percabangan atau pilihan dalam Python, pada bab ke-31 ini kita disuruh membuat game sederhana dengan if,elif dan else seperti dalam contoh tapi kita harus membuat game versi kita sendiri jadi gamenya hasil pemikiran kita. Apakah game ini berjalan dan berakhir seperti apa, ini cukup seru karena kita sendiri menentukan jalan ceritanya tanpa harus menyontek dari contoh. Dalam latihan ini tidak saya beri komentar karena cara bacanya juga mudah. Berikut hasil latihan saya:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;&#34;&#34;Kamu tersesat dalam hutan, dan hujan pun turun.
+</span><span style="color:#e6db74">	Kamu melihat goa dan rumah kecil terbuka sedikit pintunya, kamu akan berteduh dimana&#34;&#34;&#34;</span>)
+
+pilihan <span style="color:#f92672">=</span> input(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;pilih rumah atau goa: &#34;</span>)
+<span style="color:#66d9ef">if</span> pilihan <span style="color:#f92672">==</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;rumah&#34;</span>:
+	<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Atap rumah bocor tapi keadaan rumah terlihat rapi.&#34;</span>)
+	<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Apa yang akan kamu lakukan?&#34;</span>)
+	<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;1. Masuk rumah&#34;</span>)
+	<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;2. Berteduh diluar rumah&#34;</span>)
+
+	rumah <span style="color:#f92672">=</span> input(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Pilih angka 1 atau 2: &#34;</span>)
+	<span style="color:#66d9ef">if</span> rumah <span style="color:#f92672">==</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;1&#34;</span>:
+		<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Kamu melihat sekelebat bayangan&#34;</span>)
+		<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Apa yang akan kamu lakukan?&#34;</span>)
+		<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;1. Menuju arah bayangan&#34;</span>)
+		<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;2. Kembali keluar rumah&#34;</span>)
+		masuk <span style="color:#f92672">=</span> input(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Pilih angka 1 atau 2: &#34;</span>)
+		<span style="color:#66d9ef">if</span> masuk <span style="color:#f92672">==</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;1&#34;</span>:
+			<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Tiba-tiba seseorang dibelakangmu dan menikammu dengan pisau&#34;</span>)
+		<span style="color:#66d9ef">elif</span> masuk <span style="color:#f92672">==</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;2&#34;</span>:
+			<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Pintu terkunci tiba-tiba dan seseorang melemparimu dengan batu dan kamu mati&#34;</span>)
+		<span style="color:#66d9ef">else</span>:
+			<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Silahkan pilih dengan benar agar bisa bermain.&#34;</span>)
+	<span style="color:#66d9ef">elif</span> rumah <span style="color:#f92672">==</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;2&#34;</span>:
+		<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Kamu mati kedinginan&#34;</span>)
+	<span style="color:#66d9ef">else</span>:
+		<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Pilihan salah&#34;</span>)
+<span style="color:#66d9ef">elif</span> pilihan <span style="color:#f92672">==</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;goa&#34;</span>:
+	<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Goa terlihat menyeramkan dan kumuh&#34;</span>)
+	<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Apakah kamu ingin tetap masuk?&#34;</span>)
+	<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;1. Ya&#34;</span>)
+	<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;2. Tidak&#34;</span>)
+
+	goa <span style="color:#f92672">=</span> input(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;ketik ya/tidak: &#34;</span>)
+	<span style="color:#66d9ef">if</span> goa <span style="color:#f92672">==</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;ya&#34;</span>:
+		<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Selamat kamu mendapat peta harta karun&#34;</span>)
+	<span style="color:#66d9ef">elif</span> goa <span style="color:#f92672">==</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;tidak&#34;</span>:
+		<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Apa kamu akan kembali kembali ke rumah?ya/tidak&#34;</span>)
+		kembali <span style="color:#f92672">=</span> input(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Ketik ya/tidak: &#34;</span>)
+		<span style="color:#66d9ef">if</span> kembali <span style="color:#f92672">==</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;ya&#34;</span>:
+			<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Kamu tekah kehilangan harta karun&#34;</span>)
+			<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Apa yang akan kamu lakukan?&#34;</span>)
+			<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;1. Masuk rumah&#34;</span>)
+			<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;2. Berteduh diluar rumah&#34;</span>)
+
+			rumah <span style="color:#f92672">=</span> input(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Pilih angka 1 atau 2: &#34;</span>)
+			<span style="color:#66d9ef">if</span> rumah <span style="color:#f92672">==</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;1&#34;</span>:
+				<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Kamu melihat sekelebat bayangan&#34;</span>)
+				<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Apa yang akan kamu lakukan?&#34;</span>)
+				<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;1. Menuju arah bayangan&#34;</span>)
+				<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;2. Kembali keluar rumah&#34;</span>)
+				masuk <span style="color:#f92672">=</span> input(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Pilih angka 1 atau 2: &#34;</span>)
+				<span style="color:#66d9ef">if</span> masuk <span style="color:#f92672">==</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;1&#34;</span>:
+					<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Tiba-tiba seseorang dibelakangmu dan menikammu dengan pisau&#34;</span>)
+				<span style="color:#66d9ef">elif</span> masuk <span style="color:#f92672">==</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;2&#34;</span>:
+					<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Pintu terkunci tiba-tiba dan seseorang melemparimu dengan batu dan kamu mati&#34;</span>)
+				<span style="color:#66d9ef">else</span>:
+					<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Silahkan pilih dengan benar agar bisa bermain.&#34;</span>)
+			<span style="color:#66d9ef">elif</span> rumah <span style="color:#f92672">==</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;2&#34;</span>:
+				<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Kamu mati kedinginan&#34;</span>)
+			<span style="color:#66d9ef">else</span>:
+				<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Pilihan salah dan game berakhir&#34;</span>)
+		<span style="color:#66d9ef">elif</span> kembali <span style="color:#f92672">==</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;tidak&#34;</span>:
+			<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Apakah kamu ingin tetap masuk?&#34;</span>)
+			<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;1. Ya&#34;</span>)
+			<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;2. Tidak&#34;</span>)
+			<span style="color:#66d9ef">if</span> goa <span style="color:#f92672">==</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;ya&#34;</span>:
+				<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Selamat kamu mendapat peta harta karun&#34;</span>)
+			<span style="color:#66d9ef">elif</span> goa <span style="color:#f92672">==</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;tidak&#34;</span>:
+				<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Apa kamu akan kembali kembali ke rumah?ya/tidak&#34;</span>)
+				kembali <span style="color:#f92672">=</span> input(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;ketik ya/tidak: &#34;</span>)
+				<span style="color:#66d9ef">if</span> kembali <span style="color:#f92672">==</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;ya&#34;</span>:
+					<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Kamu tekah kehilangan harta karun&#34;</span>)
+					<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Apa yang akan kamu lakukan?&#34;</span>)
+					<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;1. Masuk rumah&#34;</span>)
+					<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;2. Berteduh diluar rumah&#34;</span>)
+
+					rumah <span style="color:#f92672">=</span> input(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Pilih angka 1 atau 2: &#34;</span>)
+					<span style="color:#66d9ef">if</span> rumah <span style="color:#f92672">==</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;1&#34;</span>:
+						<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Kamu melihat sekelebat bayangan&#34;</span>)
+						<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Apa yang akan kamu lakukan?&#34;</span>)
+						<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;1. Menuju arah bayangan&#34;</span>)
+						<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;2. Kembali keluar rumah&#34;</span>)
+						masuk <span style="color:#f92672">=</span> input(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Pilih angka 1 atau 2: &#34;</span>)
+						<span style="color:#66d9ef">if</span> masuk <span style="color:#f92672">==</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;1&#34;</span>:
+							<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Tiba-tiba seseorang dibelakangmu dan menikammu dengan pisau&#34;</span>)
+						<span style="color:#66d9ef">elif</span> masuk <span style="color:#f92672">==</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;2&#34;</span>:
+							<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Pintu terkunci tiba-tiba dan seseorang melemparimu dengan batu dan kamu mati&#34;</span>)
+						<span style="color:#66d9ef">else</span>:
+							<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Silahkan pilih dengan benar agar bisa bermain.&#34;</span>)
+					<span style="color:#66d9ef">elif</span> rumah <span style="color:#f92672">==</span> <span style="color:#e6db74"></span><span style="color:#e6db74">&#34;2&#34;</span>:
+						<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Kamu mati kedinginan&#34;</span>)
+					<span style="color:#66d9ef">else</span>:
+						<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Pilihan salah dan game berakhir&#34;</span>)
+			<span style="color:#66d9ef">else</span>:
+				<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;game berakhir&#34;</span>)
+		<span style="color:#66d9ef">else</span>:
+			<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Game berakhir&#34;</span>)
+<span style="color:#66d9ef">else</span>:
+	<span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Game berakhir&#34;</span>)</code></pre></div>
+      <footer class="entry-meta">
+          
+        <span class="entry-tags"><a href="https://choiril.github.io/tags/#%23100daysofcode" title="Pages tagged #100daysofcode" class="tag"><span class="term">#100daysofcode</span></a><a href="https://choiril.github.io/tags/#python" title="Pages tagged python" class="tag"><span class="term">python</span></a><a href="https://choiril.github.io/tags/#challenges" title="Pages tagged challenges" class="tag"><span class="term">challenges</span></a><a href="https://choiril.github.io/tags/#%23100daysofwriting" title="Pages tagged #100daysofwriting" class="tag"><span class="term">#100daysofwriting</span></a></span>
+        
+        
+        <div class="social-share">
+  <ul class="socialcount socialcount-small inline-list">
+    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fchoiril.github.io%2fposts%2fmembuat-game-if-elif-else-python%2f" target="_blank" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Like</span></a></li>
+    <li class="twitter"><a href="https://twitter.com/intent/tweet?text=https%3a%2f%2fchoiril.github.io%2fposts%2fmembuat-game-if-elif-else-python%2f" target="_blank" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Tweet</span></a></li>
+    <li class="googleplus"><a href="https://plus.google.com/share?url=https%3a%2f%2fchoiril.github.io%2fposts%2fmembuat-game-if-elif-else-python%2f" target="_blank" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
+  </ul>
+</div>
+
+      </footer>
+    </div>
+    
+    <section id="disqus_thread"><div id="disqus_thread"></div>
+<script type="text/javascript">
+
+(function() {
+    
+    
+    if (window.location.hostname == "localhost")
+        return;
+
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'choiril';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+    
+  </article>
+</div>
+
+<div class="footer-wrapper">
+  <footer role="contentinfo">
+    <span>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.
+<br> Powered by <a href="https://gohugo.io/" rel="nofollow">Hugo</a> using the <a href="https://github.com/dldx/hpstr-hugo-theme" rel="nofollow">HPSTR</a> theme.</span>
+
+  </footer>
+</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="\/js\/vendor\/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="https://choiril.github.io/js/scripts.min.js"></script>
+
+
+
+</body>
+</html>
+

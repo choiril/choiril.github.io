@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Mon, 26 Feb 2018 19:57:53 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2018 20:21:14 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Membuat Game if Elif Else Python</title>
+      <link>https://choiril.github.io/posts/membuat-game-if-elif-else-python/</link>
+      <pubDate>Tue, 27 Feb 2018 20:21:14 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/membuat-game-if-elif-else-python/</guid>
+      <description>Dua hari berturut-turut telah belajar tentang percabangan atau pilihan dalam Python, pada bab ke-31 ini kita disuruh membuat game sederhana dengan if,elif dan else seperti dalam contoh tapi kita harus membuat game versi kita sendiri jadi gamenya hasil pemikiran kita. Apakah game ini berjalan dan berakhir seperti apa, ini cukup seru karena kita sendiri menentukan jalan ceritanya tanpa harus menyontek dari contoh. Dalam latihan ini tidak saya beri komentar karena cara bacanya juga mudah.</description>
+    </item>
     
     <item>
       <title>Else if Pada Python</title>
