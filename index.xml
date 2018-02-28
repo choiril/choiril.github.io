@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Tue, 27 Feb 2018 20:21:14 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2018 20:02:26 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>For Loop Python</title>
+      <link>https://choiril.github.io/posts/for-loop-python/</link>
+      <pubDate>Wed, 28 Feb 2018 20:02:26 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/for-loop-python/</guid>
+      <description>Kalau ada percabangan pasti ada perulangan, kali ini pada hari ke-28 kita akan belajar tentang perulangan. Untuk hari ini perulangan menggunakan for-loop, tapi sebelum kita menggunakan perulangan kita haru menyimpan terlebih dulu apa yang akan kita ulangi. Untuk menyimpan kita butuh sesuatu yaitu list atau daftar, contoh list:
+angka = [1, 2, 3, 4, 5] hewan = [kelinci, marmut, hamster]  Lebih mudahnya, langsung saja ke kode yang sudah saya buat sesuai study drill:</description>
+    </item>
     
     <item>
       <title>Membuat Game If Elif Else Python</title>
