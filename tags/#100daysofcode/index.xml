@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This website is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Wed, 28 Feb 2018 20:02:26 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 01 Mar 2018 20:21:25 +0700</lastBuildDate>
     
 	<atom:link href="https://choiril.github.io/tags/#100daysofcode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>While Loop Pada Python</title>
+      <link>https://choiril.github.io/posts/while-loop-pada-python/</link>
+      <pubDate>Thu, 01 Mar 2018 20:21:25 +0700</pubDate>
+      
+      <guid>https://choiril.github.io/posts/while-loop-pada-python/</guid>
+      <description>Hari ke-29 masih tentang perulangan pada python, perulangan kali ini berbeda dari sebelumnya. Kalau kemarin for-loop akan diulangi sampai variabel/batas yang telah ditentukan kalau sekarang perulangannya akan terus berulang sampai nilai dari variabel adalah False, perulangan ini disebut while-loop. Misal jika x &amp;lt; 1001, maka program akan terus berjalan sampai nilai mencapai 1000. While-Loop juga bisa digabung dengan nilai variabel berupa karakter, biar mudahnya langsung ke contoh kode yang sesuai study drill ebook:</description>
+    </item>
     
     <item>
       <title>For Loop Python</title>
